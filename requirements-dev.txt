@@ -1,0 +1,5 @@
+# Tests and linting. Does not need TensorFlow: the API is tested with a fake classifier.
+-r requirements.txt
+pytest==8.2.2
+httpx==0.27.0
+ruff==0.5.1

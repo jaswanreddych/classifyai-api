@@ -1,0 +1,3398 @@
+[
+  {
+    "id": "Aloevera",
+    "name": "Aloevera",
+    "scientific_name": "Aloe vera",
+    "family": "Asphodelaceae",
+    "common_names": {
+      "English": [
+        "Aloe",
+        "True Aloe"
+      ],
+      "Spanish": [
+        "Sábila",
+        "Zábila"
+      ],
+      "Hindi": [
+        "घृतकुमारी (Ghritkumari)"
+      ],
+      "Chinese": [
+        "芦荟 (Lúhuì)"
+      ],
+      "Arabic": [
+        "صبر (Sabra)"
+      ],
+      "Tamil": [
+        "கற்கண்டாள் (Karkandu)"
+      ],
+      "Telugu": [
+        "కలబంద (Kalaband)"
+      ]
+    },
+    "description": "Aloe vera is a succulent plant species of the genus Aloe. It is widely cultivated for agricultural and medicinal uses. The plant has thick, fleshy, green leaves that contain a gel-like substance.",
+    "native_to": "Arabian Peninsula",
+    "active_compounds": [
+      "Aloin",
+      "Aloesin",
+      "Barbaloin",
+      "Emodin",
+      "Acemannan"
+    ],
+    "uses": {
+      "medicinal": [
+        "Treatment of burns, including sunburn",
+        "Moisturizing and soothing skin",
+        "Treating minor skin infections",
+        "Promoting wound healing",
+        "Reducing inflammation",
+        "Alleviating symptoms of psoriasis and eczema"
+      ],
+      "other": [
+        "Improving digestive health",
+        "Supporting oral hygiene",
+        "Aiding in hair care, promoting hair growth and scalp health",
+        "Enhancing immune function",
+        "Regulating blood sugar levels",
+        "Promoting heart health",
+        "Alleviating symptoms of gastrointestinal disorders such as irritable bowel syndrome (IBS) and acid reflux",
+        "Supporting detoxification processes in the body"
+      ]
+    }
+  },
+  {
+    "id": "Amla",
+    "name": "Amla",
+    "scientific_name": "Phyllanthus emblica",
+    "family": "Phyllanthaceae",
+    "common_names": {
+      "English": [
+        "Indian Gooseberry",
+        "Amla"
+      ],
+      "Hindi": [
+        "आमला (Amla)"
+      ],
+      "Tamil": [
+        "நெல்லிக்காய் (Nellikkai)"
+      ],
+      "Telugu": [
+        "ఉసిరికాయ (Usirikaya)"
+      ]
+    },
+    "description": "Amla, also known as Indian Gooseberry, is a deciduous tree native to the Indian subcontinent. It is known for its round, light green fruit that has a sour and bitter taste.",
+    "native_to": "India",
+    "active_compounds": [
+      "Ascorbic acid (Vitamin C)",
+      "Tannins",
+      "Gallic acid",
+      "Flavonoids"
+    ],
+    "uses": {
+      "medicinal": [
+        "Rich source of Vitamin C",
+        "Boosting immunity",
+        "Improving digestion",
+        "Promoting hair growth",
+        "Lowering cholesterol levels",
+        "Managing diabetes"
+      ],
+      "other": [
+        "Amla can be consumed fresh, dried, or as a juice.",
+        "It is also used in various culinary preparations, such as pickles, preserves, and chutneys.",
+        "Amla fruit can be eaten raw or used to prepare juice.",
+        "It is also available in powdered or supplement form.",
+        "Consult a healthcare professional for appropriate dosage."
+      ]
+    }
+  },
+  {
+    "id": "Amruthaballi",
+    "name": "Amruthaballi",
+    "scientific_name": "Tinospora cordifolia",
+    "family": "Menispermaceae",
+    "common_names": {
+      "English": [
+        "Heart-leaved moonseed",
+        "Guduchi"
+      ],
+      "Hindi": [
+        "गिलोय (Giloy)"
+      ],
+      "Tamil": [
+        "சிறுபல்லி (Sirupalli)"
+      ],
+      "Telugu": [
+        "తిప్ప తీగ (Tippa Teega)"
+      ]
+    },
+    "description": "Amruthaballi, also known as Guduchi or Heart-leaved moonseed, is a climbing shrub native to the Indian subcontinent. It is known for its heart-shaped leaves and aerial roots.",
+    "native_to": "India",
+    "active_compounds": [
+      "Berberine",
+      "Tinosporaside",
+      "Giloin",
+      "Tinosporic acid"
+    ],
+    "uses": {
+      "medicinal": [
+        "Boosting immunity",
+        "Treating respiratory infections",
+        "Managing diabetes",
+        "Improving digestion",
+        "Reducing stress and anxiety",
+        "Promoting liver health"
+      ],
+      "other": [
+        "Supporting joint health and reducing inflammation in conditions like arthritis",
+        "Enhancing memory and cognitive function",
+        "Aiding in weight management",
+        "Alleviating symptoms of allergies",
+        "Improving skin health and treating skin disorders",
+        "Supporting kidney function",
+        "Enhancing reproductive health in both men and women"
+      ]
+    }
+  },
+  {
+    "id": "Arali",
+    "name": "Arali",
+    "scientific_name": "Adhatoda vasica",
+    "family": "Acanthaceae",
+    "common_names": {
+      "English": [
+        "Malabar nut",
+        "Vasaka"
+      ],
+      "Hindi": [
+        "अड़ूसा (Arusa)"
+      ],
+      "Tamil": [
+        "ஆடாதொடை (Aadathodai)"
+      ],
+      "Telugu": [
+        "వాసకం (Vasakam)"
+      ]
+    },
+    "description": "Arali, also known as Malabar nut or Vasaka, is a medicinal plant native to the Indian subcontinent. It is an evergreen shrub with lance-shaped leaves and white or purple flowers.",
+    "native_to": "India",
+    "active_compounds": [
+      "Vasicine",
+      "Vasiciolin",
+      "Vasicinone",
+      "Vasicinol"
+    ],
+    "uses": {
+      "medicinal": [
+        "Treating respiratory conditions such as asthma, bronchitis, and cough",
+        "Improving respiratory function",
+        "Dissolving mucus and relieving congestion",
+        "Antibacterial and anti-inflammatory properties",
+        "Managing diabetes",
+        "Promoting digestion"
+      ],
+      "other": [
+        "Alleviating symptoms of fever",
+        "Supporting cardiovascular health",
+        "Aiding in the treatment of skin disorders such as eczema and psoriasis",
+        "Enhancing liver function",
+        "Helping in the management of arthritis and joint pain",
+        "Acting as an expectorant to clear phlegm from the throat"
+      ]
+    }
+  },
+  {
+    "id": "Astma_weed",
+    "name": "Astma_weed",
+    "scientific_name": "Euphorbia hirta",
+    "family": "Euphorbiaceae",
+    "common_names": {
+      "English": [
+        "Asthma Weed",
+        "Puff Weed"
+      ],
+      "Hindi": [
+        "डैमोंस बटी (Damoons Butti)"
+      ],
+      "Tamil": [
+        "ஆம்மாடி (Ammadi)"
+      ],
+      "Telugu": [
+        "దుగ్ధి చెట్టు (Dugdhi Chettu)"
+      ]
+    },
+    "description": "Astma_weed, also known as Asthma Weed or Puff Weed, is a small, annual herbaceous plant native to tropical regions. It is characterized by its hairy stems and leaves and tiny green flowers.",
+    "native_to": "Tropical regions",
+    "active_compounds": [
+      "Tannins",
+      "Flavonoids",
+      "Alkaloids",
+      "Terpenoids"
+    ],
+    "uses": {
+      "medicinal": [
+        "Relieving symptoms of asthma",
+        "Treating bronchitis and other respiratory conditions",
+        "Relieving cough",
+        "Anti-inflammatory properties",
+        "Antibacterial and antiviral properties",
+        "Treating gastrointestinal disorders"
+      ],
+      "other": [
+        "Promoting wound healing and preventing infections",
+        "Alleviating symptoms of skin conditions such as eczema and dermatitis",
+        "Supporting urinary tract health and treating urinary infections",
+        "Aiding in the management of fever",
+        "Possessing antifungal properties for treating fungal infections",
+        "Supporting liver health and detoxification processes",
+        "Alleviating symptoms of diarrhea"
+      ]
+    }
+  },
+  {
+    "id": "Balloon_Vine",
+    "name": "Balloon_Vine",
+    "scientific_name": "Cardiospermum halicacabum",
+    "family": "Sapindaceae",
+    "common_names": {
+      "English": [
+        "Balloon Vine",
+        "Heartseed"
+      ],
+      "Hindi": [
+        "कांच कटारा (Kanch katar)"
+      ],
+      "Tamil": [
+        "உடல்ப்பச்சை (Udalpachchai)"
+      ],
+      "Telugu": [
+        "బల్లి జడ (Bali Jada)"
+      ]
+    },
+    "description": "Balloon Vine, also known as Heartseed, is a climbing plant native to tropical regions of Africa, Asia, and the Americas. It is characterized by its balloon-like seed capsules and palmately compound leaves.",
+    "native_to": "Tropical regions of Africa, Asia, and the Americas",
+    "active_compounds": [
+      "Triterpenoids",
+      "Flavonoids",
+      "Saponins",
+      "Alkaloids"
+    ],
+    "uses": {
+      "medicinal": [
+        "Treating joint pain and inflammation",
+        "Relieving itching and skin conditions",
+        "Anti-inflammatory and analgesic properties",
+        "Improving respiratory health",
+        "Promoting hair growth",
+        "Managing diabetes"
+      ],
+      "other": [
+        "Supporting cardiovascular health",
+        "Alleviating symptoms of arthritis",
+        "Enhancing digestive health and relieving gastrointestinal discomfort",
+        "Possessing antipyretic properties for managing fever",
+        "Aiding in the treatment of insect bites and stings",
+        "Supporting kidney function and promoting urinary health"
+      ]
+    }
+  },
+  {
+    "id": "Bamboo",
+    "name": "Bamboo",
+    "scientific_name": "Bambusoideae",
+    "family": "Poaceae",
+    "common_names": {
+      "English": [
+        "Bamboo"
+      ],
+      "Hindi": [
+        "बांस (Bans)"
+      ],
+      "Tamil": [
+        "மூங்கில் (Moongil)"
+      ],
+      "Telugu": [
+        "బాంస (Bamsu)"
+      ]
+    },
+    "description": "Bamboo is a type of grass belonging to the subfamily Bambusoideae of the family Poaceae. It is known for its tall, woody, perennial, and evergreen stems, which are commonly used in construction, crafts, and culinary purposes.",
+    "native_to": "Various regions worldwide",
+    "active_compounds": [
+      "Silica",
+      "Phenolic compounds",
+      "Flavonoids",
+      "Lignans"
+    ],
+    "uses": {
+      "medicinal": [
+        "Treating fever and infections",
+        "Relieving respiratory conditions",
+        "Strengthening the immune system",
+        "Promoting digestion",
+        "Supporting cardiovascular health",
+        "Anti-inflammatory properties"
+      ],
+      "other": [
+        "Construction",
+        "Crafts",
+        "Culinary purposes"
+      ]
+    }
+  },
+  {
+    "id": "Beans",
+    "name": "Beans",
+    "scientific_name": "Phaseolus vulgaris",
+    "family": "Fabaceae",
+    "common_names": {
+      "English": [
+        "Beans"
+      ],
+      "Hindi": [
+        "राजमा (Rajma)"
+      ],
+      "Tamil": [
+        "பீன்ஸ் (Beans)"
+      ],
+      "Telugu": [
+        "బీన్స్ (Beans)"
+      ]
+    },
+    "description": "Beans, scientifically known as Phaseolus vulgaris, are a type of legume widely cultivated for their edible seeds. They come in various colors, including green, yellow, red, and black, and they are consumed in both fresh and dried forms.",
+    "native_to": "Central and South America",
+    "active_compounds": [
+      "Protein",
+      "Fiber",
+      "Vitamins (B vitamins",
+      "vitamin K)",
+      "Minerals (iron",
+      "magnesium",
+      "potassium",
+      "zinc)"
+    ],
+    "uses": {
+      "medicinal": [
+        "Rich source of protein, fiber, and various vitamins and minerals",
+        "Lowering cholesterol levels",
+        "Regulating blood sugar levels",
+        "Promoting heart health",
+        "Supporting digestive health",
+        "Anti-inflammatory properties"
+      ],
+      "other": [
+        "Beans can be consumed fresh, cooked, or dried.",
+        "Used in various culinary dishes, including soups, stews, salads, and side dishes.",
+        "Include beans as part of a balanced diet to enjoy their nutritional benefits."
+      ]
+    }
+  },
+  {
+    "id": "Betel",
+    "name": "Betel",
+    "scientific_name": "Piper betle",
+    "family": "Piperaceae",
+    "common_names": {
+      "English": [
+        "Betel"
+      ],
+      "Hindi": [
+        "पान (Paan)"
+      ],
+      "Tamil": [
+        "வெற்றிலை (Vettilai)"
+      ],
+      "Telugu": [
+        "తాంబూలం (Tambulam)"
+      ]
+    },
+    "description": "Betel, scientifically known as Piper betle, is a perennial climbing vine native to Southeast Asia. It is cultivated for its heart-shaped leaves, which are commonly chewed with areca nut and slaked lime as a traditional stimulant and breath freshener.",
+    "native_to": "Southeast Asia",
+    "active_compounds": [
+      "Phenols",
+      "Tannins",
+      "Alkaloids",
+      "Flavonoids"
+    ],
+    "uses": {
+      "medicinal": [
+        "Stimulating effects on the central nervous system",
+        "Improving digestion",
+        "Relieving gastrointestinal discomfort",
+        "Antimicrobial properties",
+        "Antioxidant properties",
+        "Promoting oral health"
+      ],
+      "other": [
+        "Betel leaves are traditionally chewed with areca nut and slaked lime as a stimulant and mouth freshener. They can also be used in herbal remedies and preparations.",
+        "Chew betel leaves in moderation for their stimulant and medicinal effects. Consult a healthcare professional for specific recommendations and precautions."
+      ]
+    }
+  },
+  {
+    "id": "Bhrami",
+    "name": "Bhrami",
+    "scientific_name": "Bacopa monnieri",
+    "family": "Plantaginaceae",
+    "common_names": {
+      "English": [
+        "Brahmi",
+        "Water hyssop"
+      ],
+      "Hindi": [
+        "ब्राह्मी (Brahmi)"
+      ],
+      "Tamil": [
+        "பிராமி (Brahmi)"
+      ],
+      "Telugu": [
+        "బ్రహ్మి (Brahmi)"
+      ]
+    },
+    "description": "Brahmi, scientifically known as Bacopa monnieri, is a perennial creeping herb native to wetlands and marshy areas of India, Southeast Asia, Australia, Europe, Africa, and North and South America. It is characterized by its small, succulent leaves and light purple flowers.",
+    "native_to": "India, Southeast Asia, Australia, Europe, Africa, and North and South America",
+    "active_compounds": [
+      "Bacosides",
+      "Alkaloids",
+      "Flavonoids",
+      "Saponins"
+    ],
+    "uses": {
+      "medicinal": [
+        "Improving cognitive function and memory",
+        "Reducing anxiety and stress",
+        "Enhancing mood",
+        "Supporting brain health",
+        "Promoting hair growth",
+        "Anti-inflammatory properties"
+      ],
+      "other": [
+        "Supporting gastrointestinal health and relieving digestive discomfort",
+        "Alleviating symptoms of ADHD (Attention Deficit Hyperactivity Disorder)",
+        "Enhancing liver health and supporting detoxification processes",
+        "Promoting cardiovascular health",
+        "Aiding in the treatment of epilepsy and seizures",
+        "Supporting respiratory health and relieving symptoms of respiratory conditions"
+      ]
+    }
+  },
+  {
+    "id": "Bringaraja",
+    "name": "Bringaraja",
+    "scientific_name": "Eclipta prostrata",
+    "family": "Asteraceae",
+    "common_names": {
+      "English": [
+        "Bringaraja",
+        "False Daisy"
+      ],
+      "Hindi": [
+        "भृंगराज (Bhringraj)"
+      ],
+      "Tamil": [
+        "கரிசிலாங்கண்ணி (Karisaalankanni)"
+      ],
+      "Telugu": [
+        "కాంటకున్ని (Kantakunni)"
+      ]
+    },
+    "description": "Bringaraja, scientifically known as Eclipta prostrata, is a small, annual herb native to India, Southeast Asia, and Oceania. It is commonly found in damp places and is characterized by its small, white flowers and lance-shaped leaves.",
+    "native_to": "India, Southeast Asia, and Oceania",
+    "active_compounds": [
+      "Ecliptine",
+      "Wedelolactone",
+      "Triterpenoids",
+      "Flavonoids"
+    ],
+    "uses": {
+      "medicinal": [
+        "Promoting hair growth",
+        "Preventing premature graying of hair",
+        "Treating skin conditions such as eczema and dermatitis",
+        "Supporting liver health",
+        "Reducing inflammation",
+        "Antioxidant properties"
+      ],
+      "other": [
+        "Grows well in moist, fertile soil",
+        "Prefers full sunlight",
+        "Regular watering to keep soil consistently moist",
+        "Propagation through seeds or stem cuttings",
+        "Frequent harvesting to encourage new growth"
+      ]
+    }
+  },
+  {
+    "id": "Caricature",
+    "name": "Caricature",
+    "scientific_name": "Graptophyllum pictum",
+    "family": "Acanthaceae",
+    "common_names": {
+      "English": [
+        "Caricature Plant"
+      ],
+      "Hindi": [
+        "नकली पौधा (Nakli Paudha)"
+      ],
+      "Tamil": [
+        "கேரிக்கட்சர் தாவரம் (Kerikkatchar Thavaram)"
+      ],
+      "Telugu": [
+        "కేరికేచర్ చెట్టు (Kerikechar Chettu)"
+      ]
+    },
+    "description": "Caricature Plant, scientifically known as Graptophyllum pictum, is a tropical evergreen shrub native to Papua New Guinea, Indonesia, Australia, and other tropical regions. It is cultivated for its colorful and variegated foliage, which features various shades of green, red, pink, and purple.",
+    "native_to": "Papua New Guinea, Indonesia, Australia, and other tropical regions",
+    "active_compounds": [
+      "Alkaloids",
+      "Flavonoids",
+      "Tannins",
+      "Saponins"
+    ],
+    "uses": {
+      "medicinal": [
+        "Traditional remedy for skin conditions such as rashes and itching",
+        "Treatment of minor wounds and cuts",
+        "Antimicrobial and anti-inflammatory properties",
+        "Supporting skin health",
+        "Potential use in herbal cosmetics"
+      ],
+      "other": [
+        "Ornamental purposes due to its colorful foliage",
+        "Natural dye source for textiles and crafts",
+        "Potential use in landscaping and garden design",
+        "Environmental applications such as air purification",
+        "Symbolic or cultural significance in traditional rituals or ceremonies"
+      ]
+    }
+  },
+  {
+    "id": "Castor",
+    "name": "Castor",
+    "scientific_name": "Ricinus communis",
+    "family": "Euphorbiaceae",
+    "common_names": {
+      "English": [
+        "Castor"
+      ],
+      "Hindi": [
+        "अरंडी (Arandi)"
+      ],
+      "Tamil": [
+        "ஆமணக்கு (Aamanakku)"
+      ],
+      "Telugu": [
+        "ఆముదము (Aamudamu)"
+      ]
+    },
+    "description": "Castor, scientifically known as Ricinus communis, is a perennial flowering plant native to Africa and India. It is cultivated for its seeds, which contain ricinoleic acid, a fatty acid with various industrial and medicinal uses.",
+    "native_to": "Africa and India",
+    "active_compounds": [
+      "Ricinoleic acid",
+      "Oleic acid",
+      "Linoleic acid",
+      "Stearic acid"
+    ],
+    "uses": {
+      "medicinal": [
+        "Laxative properties",
+        "Relief from constipation",
+        "Inducing labor during childbirth (under medical supervision)",
+        "Anti-inflammatory properties",
+        "Pain relief for arthritis and joint pain",
+        "Supporting hair growth"
+      ],
+      "other": [
+        "Commonly used as a laxative",
+        "Various industrial uses of ricinoleic acid",
+        "Toxic seeds not for ingestion"
+      ]
+    }
+  },
+  {
+    "id": "Catharanthus",
+    "name": "Catharanthus",
+    "scientific_name": "Catharanthus roseus",
+    "family": "Apocynaceae",
+    "common_names": {
+      "English": [
+        "Catharanthus",
+        "Madagascar Periwinkle",
+        "Vinca"
+      ],
+      "Hindi": [
+        "सदाबहार (Sada Bahar)"
+      ],
+      "Tamil": [
+        "நிலாவண்டி (Nilavanti)"
+      ],
+      "Telugu": [
+        "బిల్లగాంజి (Billagamji)"
+      ]
+    },
+    "description": "Catharanthus, scientifically known as Catharanthus roseus, is a species of flowering plant native to Madagascar. It is cultivated as an ornamental plant and also for its medicinal properties.",
+    "native_to": "Madagascar",
+    "active_compounds": [
+      "Vinblastine",
+      "Vincristine",
+      "Alkaloids",
+      "Tannins",
+      "Flavonoids"
+    ],
+    "uses": {
+      "medicinal": [
+        "Treatment of various types of cancer, including leukemia and lymphoma",
+        "Antimicrobial and antifungal properties",
+        "Lowering blood sugar levels",
+        "Relief from high blood pressure",
+        "Treating insect bites and stings",
+        "Supporting wound healing"
+      ],
+      "other": [
+        "Ornamental purposes due to its attractive flowers",
+        "Potential use in traditional medicine for treating fever and malaria",
+        "Environmental applications such as erosion control and soil stabilization",
+        "Use in landscaping and garden design",
+        "Source of natural dyes for textiles and crafts",
+        "Potential insect-repelling properties for use in natural pest control"
+      ]
+    }
+  },
+  {
+    "id": "Chakte",
+    "name": "Chakte",
+    "scientific_name": "Haematoxylum campechianum",
+    "family": "Fabaceae",
+    "common_names": {
+      "English": [
+        "Logwood",
+        "Chakte kok"
+      ],
+      "Spanish": [
+        "Campeche",
+        "Palo de Campeche"
+      ],
+      "French": [
+        "Bois de campêche"
+      ],
+      "German": [
+        "Campecheholz"
+      ],
+      "Portuguese": [
+        "Pau-de-campeche"
+      ]
+    },
+    "description": "Chakte kok, scientifically known as Haematoxylum campechianum, is a species of flowering tree in the legume family, Fabaceae. It is native to Central America and the Caribbean. The heartwood of this tree is valued for its red dye and has been historically used in dyeing textiles.",
+    "native_to": "Central America and the Caribbean",
+    "active_compounds": [
+      "Haematoxylin",
+      "Tannins",
+      "Flavonoids"
+    ],
+    "uses": {
+      "medicinal": [
+        "Treatment of diarrhea and dysentery",
+        "Relief from inflammation and pain",
+        "Antioxidant properties",
+        "Potential use in traditional medicine for various ailments"
+      ],
+      "other": [
+        "The heartwood of Chakte kok is harvested and processed to extract haematoxylin, a natural dye.",
+        "It is used in various applications including dyeing textiles, staining wood, and as a biological stain in microscopy.",
+        "Consult a healthcare professional or herbalist for information on traditional medicinal uses and preparation methods."
+      ]
+    }
+  },
+  {
+    "id": "Chikoo-pala",
+    "name": "Chikoo-pala",
+    "scientific_name": "Manilkara zapota",
+    "family": "Sapotaceae",
+    "common_names": {
+      "English": [
+        "Sapodilla",
+        "Sapota"
+      ],
+      "Hindi": [
+        "चिक्कू (Chikoo)"
+      ],
+      "Tamil": [
+        "சப்போட்டா (Sapota)"
+      ],
+      "Telugu": [
+        "సపోట (Sapota)"
+      ]
+    },
+    "description": "Sapodilla, also known as Sapota or Chikoo, is a tropical evergreen tree native to Mexico, Central America, and the Caribbean. It is cultivated for its delicious and sweet fruit, which has a brown, grainy outer skin and a soft, brownish pulp with black seeds.",
+    "native_to": "Mexico, Central America, and the Caribbean",
+    "active_compounds": [
+      "Vitamins (A",
+      "C",
+      "E",
+      "K)",
+      "Minerals (calcium",
+      "phosphorus",
+      "potassium",
+      "magnesium)",
+      "Dietary fiber",
+      "Tannins",
+      "Phenolic compounds"
+    ],
+    "uses": {
+      "medicinal": [
+        "Rich in vitamins and minerals",
+        "Improving digestion",
+        "Boosting immunity",
+        "Promoting bone health",
+        "Supporting cardiovascular health",
+        "Antioxidant properties"
+      ],
+      "other": [
+        "Sapodilla fruit is eaten fresh",
+        "It can also be used in milkshakes, smoothies, desserts, and jams."
+      ]
+    }
+  },
+  {
+    "id": "Chilly",
+    "name": "Chilly",
+    "scientific_name": "Capsicum annuum",
+    "family": "Solanaceae",
+    "common_names": {
+      "English": [
+        "Chilli",
+        "Chili Pepper"
+      ],
+      "Hindi": [
+        "मिर्च (Mirch)"
+      ],
+      "Tamil": [
+        "மிளகாய் (Milagai)"
+      ],
+      "Telugu": [
+        "మిరపకాయ (Mirpakaya)"
+      ]
+    },
+    "description": "Chilli, scientifically known as Capsicum annuum, is a species of plant native to the Americas. It is cultivated for its fruits, which are commonly used as a spice in various cuisines around the world.",
+    "native_to": "The Americas",
+    "active_compounds": [
+      "Capsaicin",
+      "Capsanthin",
+      "Vitamin C",
+      "Carotenoids"
+    ],
+    "uses": {
+      "medicinal": [
+        "Pain relief (topical application of capsaicin cream)",
+        "Anti-inflammatory properties",
+        "Improving digestion",
+        "Boosting metabolism",
+        "Relief from nasal congestion (due to capsaicin's ability to stimulate mucus production)"
+      ],
+      "other": [
+        "Chilli peppers can be consumed fresh, dried, or powdered.",
+        "Used in various culinary dishes to add heat and flavor.",
+        "Capsaicin extract is also used in topical creams for pain relief."
+      ]
+    }
+  },
+  {
+    "id": "Citron lime",
+    "name": "Citron Lime",
+    "scientific_name": "Citrus × aurantiifolia",
+    "family": "Rutaceae",
+    "common_names": {
+      "English": [
+        "Citron Lime",
+        "Key Lime"
+      ],
+      "Hindi": [
+        "कटहल नीबू (Kathal Nimbu)"
+      ],
+      "Tamil": [
+        "சிற்றான் நாரத்தை (Citron Narathai)"
+      ],
+      "Telugu": [
+        "నిమ్మకాయ నిమ్మకాయ (Nimmakaya Nimma)"
+      ]
+    },
+    "description": "Citron Lime, also known as Key Lime, is a citrus fruit hybrid believed to be a cross between Citrus medica (Citron) and Citrus aurantiifolia (Lime). It is native to Southeast Asia and is characterized by its small, round fruit with a thin green rind and acidic juice.",
+    "native_to": "Southeast Asia",
+    "active_compounds": [
+      "Vitamin C (ascorbic acid)",
+      "Flavonoids",
+      "Citric acid",
+      "Limonoids"
+    ],
+    "uses": {
+      "medicinal": [
+        "Citron Lime juice is rich in vitamin C and antioxidants, which may help boost the immune system and promote overall health.",
+        "It is used in traditional medicine for its digestive properties, helping to relieve indigestion and nausea.",
+        "The juice of Citron Lime is also believed to have detoxifying effects and is used in cleansing diets."
+      ],
+      "other": [
+        "Citron Lime is primarily used for its juice, which is a popular ingredient in cooking, baking, beverages, and cocktails. The zest (outer peel) is also used as a flavoring agent in various dishes.",
+        "Incorporate Citron Lime juice into your diet as part of a balanced and healthy lifestyle. Consult with a healthcare professional for specific medicinal uses or concerns, especially if you have any medical conditions or are taking medications."
+      ]
+    }
+  },
+  {
+    "id": "Coffee",
+    "name": "Coffee",
+    "scientific_name": "Coffea spp.",
+    "family": "Rubiaceae",
+    "common_names": {
+      "English": [
+        "Coffee Leaf"
+      ],
+      "Spanish": [
+        "Hoja de café"
+      ],
+      "French": [
+        "Feuille de café"
+      ],
+      "Portuguese": [
+        "Folha de café"
+      ]
+    },
+    "description": "The leaves of the coffee plant, Coffea spp., are broad, glossy, and deep green in color. While they are not commonly consumed directly, they have been explored for potential uses and have some properties.",
+    "native_to": "Tropical regions of Africa, Asia, and Latin America",
+    "active_compounds": [
+      "Chlorogenic acids",
+      "Caffeine (in smaller amounts compared to coffee beans)",
+      "Flavonoids",
+      "Polyphenols"
+    ],
+    "uses": {
+      "medicinal": [
+        "Potential source of antioxidants",
+        "May have antimicrobial properties",
+        "Used in traditional medicine in some cultures for various purposes",
+        "May be used as mulch or compost in agriculture"
+      ],
+      "other": [
+        "The leaves can be dried and brewed to make a tea-like infusion, although this is not common practice.",
+        "If preparing a tea-like infusion, steep dried coffee leaves in hot water for several minutes before straining and drinking. However, it's essential to exercise caution and consult with a healthcare professional, as coffee leaves may contain caffeine and other compounds that could have effects on health."
+      ]
+    }
+  },
+  {
+    "id": "Common rue",
+    "name": "Common Rue",
+    "scientific_name": "Ruta graveolens",
+    "family": "Rutaceae",
+    "common_names": {
+      "English": [
+        "Common Rue",
+        "Rue"
+      ],
+      "Hindi": [
+        "सदाब (Sadaab)"
+      ],
+      "Tamil": [
+        "காட்டு எருவாய் (Kaattu Eravay)"
+      ],
+      "Telugu": [
+        "కాటు పుస్తకం (Kaatu Pustakam)"
+      ]
+    },
+    "description": "Common Rue, scientifically known as Ruta graveolens, is a species of herbaceous plant in the Rutaceae family. It is native to Southern Europe and the Mediterranean region but has been introduced to other parts of the world. Common Rue is known for its strong fragrance and has been used for culinary, medicinal, and ornamental purposes.",
+    "native_to": "Southern Europe, Mediterranean region",
+    "active_compounds": [
+      "Rutin",
+      "Bergapten",
+      "Flavonoids",
+      "Alkaloids"
+    ],
+    "uses": {
+      "medicinal": [
+        "In traditional medicine, Common Rue has been used to treat various ailments such as digestive issues, menstrual disorders, and respiratory problems.",
+        "It is believed to have antimicrobial, anti-inflammatory, and analgesic properties.",
+        "Common Rue has also been used topically for skin conditions such as bruises, insect bites, and dermatitis."
+      ],
+      "other": [
+        "Common Rue prefers well-drained soil and full sunlight.",
+        "It is drought-tolerant once established but benefits from regular watering during dry periods.",
+        "Pruning can help maintain plant shape and promote flowering.",
+        "Protection from frost may be necessary in cooler climates.",
+        "Common Rue leaves and aerial parts are typically used fresh or dried in herbal teas, infusions, or extracts. They can also be used as a culinary herb or for ornamental purposes.",
+        "Use Common Rue preparations cautiously, as the plant contains toxic compounds that can cause gastrointestinal upset, photosensitivity, and other adverse effects. Consult with a qualified herbalist or healthcare professional before use."
+      ]
+    }
+  },
+  {
+    "id": "Coriender",
+    "name": "Coriander Leaf",
+    "scientific_name": "Coriandrum sativum",
+    "family": "Apiaceae",
+    "common_names": {
+      "English": [
+        "Coriander",
+        "Cilantro"
+      ],
+      "Spanish": [
+        "Cilantro"
+      ],
+      "Hindi": [
+        "धनिया (Dhaniya)"
+      ],
+      "Tamil": [
+        "கொத்தமல்லி (Kothamalli)"
+      ],
+      "Telugu": [
+        "కొత్తిమీర (Kothimeera)"
+      ]
+    },
+    "description": "Coriander leaf, scientifically known as Coriandrum sativum, is an annual herb in the Apiaceae family. It is native to the Mediterranean region and is widely cultivated for its aromatic leaves and seeds.",
+    "native_to": "Mediterranean region",
+    "active_compounds": [
+      "Coriander leaves contain several active compounds including linalool",
+      "geranyl acetate",
+      "α-pinene",
+      "and terpinene. These compounds contribute to coriander's aroma and flavor as well as its potential medicinal properties."
+    ],
+    "uses": {
+      "medicinal": [
+        "Coriander leaves have been traditionally used in various medicinal practices for their digestive and anti-inflammatory properties.",
+        "They are believed to aid in digestion, reduce flatulence, and relieve gastrointestinal discomfort.",
+        "Coriander leaves are also used in some cultures to treat skin conditions and promote skin health due to their antioxidant properties."
+      ],
+      "other": [
+        "Coriander leaves are commonly used as a fresh herb in various cuisines around the world.",
+        "They are added to salads, salsas, chutneys, curries, soups, and stir-fries for flavor and aroma.",
+        "Coriander leaves are also used as a garnish to enhance the visual appeal of dishes."
+      ]
+    }
+  },
+  {
+    "id": "Curry",
+    "name": "Curry Leaf",
+    "scientific_name": "Murraya koenigii",
+    "family": "Rutaceae",
+    "common_names": {
+      "English": [
+        "Curry Leaf"
+      ],
+      "Hindi": [
+        "कड़ी पत्ता (Kadi Patta)"
+      ],
+      "Tamil": [
+        "கருவேப்பிலை (Kariveppilai)"
+      ],
+      "Telugu": [
+        "కరివేపాకు (Karivepaku)"
+      ]
+    },
+    "description": "Curry leaf, scientifically known as Murraya koenigii, is a tropical and subtropical tree in the Rutaceae family. It is native to the Indian subcontinent and is cultivated for its aromatic leaves, which are used in cooking.",
+    "native_to": "Indian Subcontinent",
+    "active_compounds": [
+      "The main bioactive compounds found in curry leaves include alkaloids",
+      "flavonoids",
+      "and phenolic compounds. These compounds are responsible for the antioxidant",
+      "anti-inflammatory",
+      "and antimicrobial properties observed in curry leaves."
+    ],
+    "uses": {
+      "medicinal": [
+        "In traditional medicine, curry leaves are used to treat various ailments such as diarrhea, dysentery, indigestion, and nausea.",
+        "They are also believed to have hepatoprotective properties, aiding in liver health and digestion.",
+        "Some studies suggest that curry leaves may have potential anti-diabetic properties by reducing blood glucose levels.",
+        "The leaves are used in Ayurvedic medicine for their antimicrobial and anti-inflammatory properties."
+      ],
+      "other": [
+        "Curry leaves are a staple ingredient in South Indian cuisine, where they are used to flavor various dishes such as curries, rice dishes, chutneys, and soups.",
+        "They are added to hot oil along with other spices at the beginning of cooking to release their flavor and aroma.",
+        "Curry leaves are also used as a garnish for added flavor and visual appeal."
+      ]
+    }
+  },
+  {
+    "id": "Doddpathre",
+    "name": "Doddapatre",
+    "scientific_name": "Plectranthus amboinicus",
+    "family": "Lamiaceae",
+    "common_names": {
+      "English": [
+        "Indian Borage",
+        "Mexican Mint"
+      ],
+      "Hindi": [
+        "पत्ता आजवायन (Patta Ajwain)"
+      ],
+      "Tamil": [
+        "கர்பூரவள்ளி (Karpooravalli)"
+      ],
+      "Telugu": [
+        "కరివేపాకు (Doddapatre)"
+      ]
+    },
+    "description": "Doddapatre, scientifically known as Plectranthus amboinicus, is a perennial herb belonging to the Lamiaceae family. It is native to Southern and Eastern Africa but is widely cultivated in Asia for its culinary and medicinal uses.",
+    "native_to": "Southern and Eastern Africa, but widely cultivated in Asia",
+    "active_compounds": [
+      "Plectranthus amboinicus contains various active compounds including carvacrol",
+      "thymol",
+      "eugenol",
+      "and rosmarinic acid. These compounds contribute to its medicinal properties such as antimicrobial",
+      "anti-inflammatory",
+      "and antioxidant effects."
+    ],
+    "uses": {
+      "medicinal": [
+        "Doddapatre is valued in traditional medicine for its medicinal properties.",
+        "It is used to treat respiratory issues like coughs, colds, and asthma.",
+        "The leaves are also used to alleviate digestive issues such as indigestion and bloating.",
+        "In some cultures, doddapatre is used topically to soothe skin irritations and insect bites."
+      ],
+      "other": [
+        "Doddapatre leaves are used as a culinary herb in various dishes, particularly in South Indian and Asian cuisines.",
+        "They are used fresh or dried to flavor soups, stews, curries, chutneys, and salads.",
+        "The leaves can also be used to make herbal teas or infused oils."
+      ]
+    }
+  },
+  {
+    "id": "Drumstick",
+    "name": "Drumstick",
+    "scientific_name": "Moringa oleifera",
+    "family": "Moringaceae",
+    "common_names": {
+      "English": [
+        "Drumstick",
+        "Moringa"
+      ],
+      "Hindi": [
+        "सहजन (Sahjan)"
+      ],
+      "Tamil": [
+        "முருங்கை (Murungai)"
+      ],
+      "Telugu": [
+        "మునగాకు (Munagaku)"
+      ]
+    },
+    "description": "Drumstick, scientifically known as Moringa oleifera, is a fast-growing, drought-resistant tree native to the Indian subcontinent. It is widely cultivated in tropical and subtropical regions for its edible seed pods, leaves, flowers, and roots, which are used for culinary, medicinal, and industrial purposes.",
+    "native_to": "Indian subcontinent",
+    "active_compounds": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin E",
+      "Iron",
+      "Calcium",
+      "Potassium",
+      "Flavonoids",
+      "Polyphenols"
+    ],
+    "uses": {
+      "medicinal": [
+        "Drumstick leaves, pods, and seeds are rich in vitamins, minerals, and antioxidants, making them a valuable addition to the diet.",
+        "They are used in traditional medicine for their anti-inflammatory, antimicrobial, and immunomodulatory properties.",
+        "Drumstick has been used to treat various ailments such as digestive disorders, respiratory infections, diabetes, and skin conditions."
+      ],
+      "other": [
+        "Drumstick trees prefer well-drained soil and full sunlight.",
+        "They are drought-tolerant once established but benefit from regular watering during dry periods.",
+        "Pruning can help maintain tree shape and promote flowering and fruiting.",
+        "Protection from frost may be necessary in cooler climates.",
+        "Drumstick leaves, pods, and seeds are used in various culinary dishes such as curries, soups, salads, and stir-fries. They can also be dried and powdered for use as a nutritional supplement or herbal remedy.",
+        "Incorporate Drumstick into your diet in moderation to enjoy its nutritional and potential medicinal benefits. Consult with a healthcare professional for specific medicinal uses or concerns, especially if you have any medical conditions or are pregnant or breastfeeding."
+      ]
+    }
+  },
+  {
+    "id": "Ekka",
+    "name": "Ekka",
+    "scientific_name": "Calotropis gigantea",
+    "family": "Apocynaceae",
+    "common_names": {
+      "English": [
+        "Giant Milkweed",
+        "Crown Flower"
+      ],
+      "Hindi": [
+        "आक (Aak)",
+        "मदार (Madar)"
+      ],
+      "Tamil": [
+        "எருக்கன் (Erukkan)",
+        "செம்மடரம் (Semmadaram)"
+      ],
+      "Telugu": [
+        "జిల్లెరు (Jilleru)"
+      ]
+    },
+    "description": "Calotropis gigantea is a large shrub or small tree native to Southeast Asia and the Indian Subcontinent. It is characterized by its thick, waxy leaves, and large, showy flowers that range in color from white to purple.",
+    "native_to": "Southeast Asia and Indian Subcontinent",
+    "active_compounds": [
+      "Caution should be exercised when using Calotropis gigantea",
+      "as it contains toxic compounds like cardiac glycosides and alkaloids. Consumption of large quantities can be harmful."
+    ],
+    "uses": {
+      "medicinal": [
+        "In traditional medicine, various parts of Calotropis gigantea are used to treat ailments such as skin diseases, asthma, rheumatism, and gastrointestinal disorders.",
+        "The latex of the plant is used topically to treat skin conditions like eczema and wounds.",
+        "The leaves and roots are used in decoctions or poultices for their anti-inflammatory and analgesic properties."
+      ],
+      "other": [
+        "Calotropis gigantea holds cultural significance in many regions. It is used in religious rituals, garlands, and decorations, especially during festivals and ceremonies.",
+        "The plant provides habitat and food for various insects and pollinators, contributing to ecosystem biodiversity.",
+        "Calotropis gigantea can be propagated from seeds or stem cuttings.",
+        "It grows well in a variety of soil types but requires good drainage. It is drought-tolerant and prefers full sunlight.",
+        "When used for medicinal purposes, it's important to consult a qualified healthcare professional or herbalist for appropriate dosage and administration methods."
+      ]
+    }
+  },
+  {
+    "id": "Eucalyptus",
+    "name": "Eucalyptus",
+    "scientific_name": "Eucalyptus spp.",
+    "family": "Myrtaceae",
+    "common_names": {
+      "English": [
+        "Eucalyptus"
+      ],
+      "Hindi": [
+        "नीलगिरी (Neelgiri)"
+      ],
+      "Tamil": [
+        "கருவாக்கு (Karuvaggu)"
+      ],
+      "Telugu": [
+        "యేల్ల చెట్టు (Yella Chettu)"
+      ]
+    },
+    "description": "Eucalyptus is a diverse genus of flowering trees and shrubs in the Myrtaceae family, native to Australia, Tasmania, and nearby islands. They are known for their aromatic leaves and characteristic bark, which can vary widely between species.",
+    "native_to": "Australia, Tasmania, nearby islands",
+    "active_compounds": [
+      "Eucalyptol (cineole)",
+      "Alpha-pinene",
+      "Beta-pinene",
+      "Camphene",
+      "Flavonoids",
+      "Tannins"
+    ],
+    "uses": {
+      "medicinal": [
+        "Eucalyptus oil is extracted from the leaves and is used in traditional medicine for its antiseptic, analgesic, and decongestant properties.",
+        "It is commonly used in topical ointments, chest rubs, and inhalants for respiratory conditions such as coughs, colds, and congestion.",
+        "Eucalyptus leaves are also brewed into tea for their potential health benefits, including immune support and respiratory relief."
+      ],
+      "other": [
+        "Eucalyptus trees prefer well-drained soil and full sunlight.",
+        "They are drought-tolerant once established but benefit from regular watering during dry periods.",
+        "Pruning can help maintain tree shape and promote healthy growth.",
+        "Eucalyptus trees are fast-growing and may require regular maintenance to control their size.",
+        "Eucalyptus leaves and oil are used in various preparations, including ointments, inhalants, teas, and aromatherapy products.",
+        "Use Eucalyptus products according to the instructions provided and in moderation. Discontinue use if any adverse reactions occur. Consult with a healthcare professional before using Eucalyptus products, especially if you have any medical conditions or are pregnant or breastfeeding."
+      ]
+    }
+  },
+  {
+    "id": "Ganike",
+    "name": "Ganike",
+    "scientific_name": "Solanum nigrum",
+    "family": "Solanaceae",
+    "common_names": {
+      "English": [
+        "Black Nightshade"
+      ],
+      "Hindi": [
+        "मकोई (Makoi)"
+      ],
+      "Tamil": [
+        "மணத்தக்காளி (Manathakkali)"
+      ],
+      "Telugu": [
+        "అకుపచ తోటకూర (Akupacha Totakura)"
+      ]
+    },
+    "description": "Solanum nigrum, commonly known as Black Nightshade, is a species of flowering plant in the Solanaceae family. It is found worldwide and is known for its small, black berries and edible leaves.",
+    "native_to": "Worldwide distribution",
+    "active_compounds": [
+      "Solanine",
+      "Solanidine",
+      "Flavonoids",
+      "Alkaloids",
+      "Phenolic compounds"
+    ],
+    "uses": {
+      "medicinal": [
+        "Anti-inflammatory properties",
+        "Antioxidant properties",
+        "Anticancer potential",
+        "Traditional remedy for various ailments such as cough, cold, fever, and digestive issues",
+        "Used in Ayurveda, traditional Chinese medicine, and other traditional systems of medicine"
+      ],
+      "other": [
+        "In some cultures, the leaves and berries of Solanum nigrum are cooked and consumed as a vegetable. However, caution is advised as certain parts of the plant may contain toxic compounds.",
+        "The leaves and berries can be cooked and incorporated into various dishes. In traditional medicine, decoctions, infusions, or extracts are prepared from different parts of the plant.",
+        "As with any herbal remedy, it's essential to consult a healthcare professional or herbalist for appropriate dosage and administration methods."
+      ]
+    }
+  },
+  {
+    "id": "Gasagase",
+    "name": "Gasagase",
+    "scientific_name": "Nigella sativa",
+    "family": "Ranunculaceae",
+    "common_names": {
+      "English": [
+        "Black Seed",
+        "Black Cumin",
+        "Nigella"
+      ],
+      "Hindi": [
+        "कलौंजी (Kalonji)"
+      ],
+      "Tamil": [
+        "கருஞ்சீரகம் (Karunjeeragam)"
+      ],
+      "Telugu": [
+        "నల్ల జీలకర్ర (Nalla Jeelakarra)"
+      ]
+    },
+    "description": "Gasagase, scientifically known as Nigella sativa, is an annual flowering plant in the Ranunculaceae family. It is native to South Asia and the Middle East and is cultivated for its small black seeds, which have a pungent aroma and are used in culinary and medicinal applications.",
+    "native_to": "South Asia, Middle East",
+    "active_compounds": [
+      "Thymoquinone",
+      "Thymohydroquinone",
+      "Dithymoquinone",
+      "Nigellidine"
+    ],
+    "uses": {
+      "medicinal": [
+        "Anti-inflammatory properties",
+        "Antioxidant properties",
+        "Antimicrobial properties",
+        "Supports digestive health",
+        "May help in managing diabetes",
+        "May support respiratory health"
+      ],
+      "other": [
+        "Gasagase has been used in traditional medicine for centuries to treat various ailments such as digestive disorders, respiratory conditions, skin disorders, and arthritis.",
+        "Gasagase seeds can be consumed whole, ground into powder, or pressed to extract oil. They are often used as a spice in cooking or taken as a dietary supplement.",
+        "Gasagase seeds or oil can be consumed orally, either directly or added to food or beverages. Consult a healthcare professional for appropriate dosage and administration methods based on individual health needs."
+      ]
+    }
+  },
+  {
+    "id": "Ginger",
+    "name": "Ginger",
+    "scientific_name": "Zingiber officinale",
+    "family": "Zingiberaceae",
+    "common_names": {
+      "English": [
+        "Ginger"
+      ],
+      "Hindi": [
+        "अदरक (Adrak)"
+      ],
+      "Tamil": [
+        "இஞ்சி (Inji)"
+      ],
+      "Telugu": [
+        "అల్లం (Allam)"
+      ]
+    },
+    "description": "Ginger, scientifically known as Zingiber officinale, is a flowering plant native to Southeast Asia. It is widely cultivated for its edible rhizome, which is used as a spice and in traditional medicine.",
+    "native_to": "Southeast Asia",
+    "active_compounds": [
+      "Gingerol",
+      "Shogaol",
+      "Zingerone",
+      "Gingerdiol"
+    ],
+    "uses": {
+      "medicinal": [
+        "Anti-nausea properties, useful for motion sickness and morning sickness",
+        "May help alleviate digestive issues such as indigestion, bloating, and gas",
+        "Anti-inflammatory effects, potentially beneficial for arthritis and other inflammatory conditions",
+        "May help reduce muscle soreness and pain",
+        "Used in traditional medicine for various ailments"
+      ],
+      "other": [
+        "Ginger rhizomes can be used fresh, dried, or powdered. They are used in cooking to add flavor and aroma to dishes such as curries, stir-fries, and soups.",
+        "Ginger is also used to make teas, beverages, and various culinary and medicinal preparations.",
+        "Incorporate ginger into your cooking or prepare ginger-based teas and beverages to enjoy its culinary and potential medicinal benefits. Consult with a healthcare professional for specific medicinal uses or concerns."
+      ]
+    }
+  },
+  {
+    "id": "Globe Amarnath",
+    "name": "Globe Amaranth",
+    "scientific_name": "Gomphrena globosa",
+    "family": "Amaranthaceae",
+    "common_names": {
+      "English": [
+        "Globe Amaranth",
+        "Bachelor's Button"
+      ],
+      "Hindi": [
+        "गोलाई अमरांथ (Golai Amaranth)"
+      ],
+      "Tamil": [
+        "வடிகட்டு (Vadikattu)"
+      ],
+      "Telugu": [
+        "వడగని కిరాణి (Vadagani Kirani)"
+      ]
+    },
+    "description": "Globe Amaranth, scientifically known as Gomphrena globosa, is a species of flowering plant native to Central and South America. It is cultivated for its distinctive globe-shaped flower heads, which are popular in ornamental gardens and floral arrangements.",
+    "native_to": "Central and South America",
+    "active_compounds": [
+      "Flavonoids",
+      "Saponins",
+      "Tannins",
+      "Alkaloids"
+    ],
+    "uses": {
+      "medicinal": [
+        "In traditional medicine, Globe Amaranth is used to treat various ailments such as respiratory conditions, digestive issues, and skin problems.",
+        "Some cultures use it for its potential diuretic and anti-inflammatory properties."
+      ],
+      "other": [
+        "Globe Amaranth flowers are primarily grown for ornamental purposes and are commonly used in fresh or dried flower arrangements, wreaths, and bouquets.",
+        "While Globe Amaranth is primarily cultivated for ornamental purposes, it has been used in traditional medicine in some cultures. However, it's important to consult with a healthcare professional before using it for medicinal purposes."
+      ]
+    }
+  },
+  {
+    "id": "Guava",
+    "name": "Guava",
+    "scientific_name": "Psidium guajava",
+    "family": "Myrtaceae",
+    "common_names": {
+      "English": [
+        "Guava"
+      ],
+      "Hindi": [
+        "अमरूद (Amrood)"
+      ],
+      "Tamil": [
+        "கொய்யா (Koyya)"
+      ],
+      "Telugu": [
+        "జామ (Jama)"
+      ]
+    },
+    "description": "Guava, scientifically known as Psidium guajava, is a tropical fruit-bearing shrub or small tree native to Central America. It is cultivated for its delicious and nutritious fruits, which are consumed fresh and used in various culinary preparations.",
+    "native_to": "Central America",
+    "active_compounds": [
+      "Vitamin C",
+      "Vitamin A",
+      "Vitamin E",
+      "Dietary fiber"
+    ],
+    "uses": {
+      "medicinal": [
+        "Rich source of vitamins C, A, and E, as well as dietary fiber",
+        "May help boost immune function and protect against infections",
+        "May aid digestion and promote gut health",
+        "May help regulate blood sugar levels",
+        "Used in traditional medicine for various ailments"
+      ],
+      "other": [
+        "Guava fruits are typically eaten fresh, either whole or sliced.",
+        "They can also be used in smoothies, juices, jams, jellies, and desserts.",
+        "Guava leaves are used to make herbal teas and extracts.",
+        "Enjoy guava fruits fresh or incorporate them into various culinary creations to enjoy their delicious flavor and potential health benefits.",
+        "Consult with a healthcare professional for specific medicinal uses or concerns."
+      ]
+    }
+  },
+  {
+    "id": "Henna",
+    "name": "Henna",
+    "scientific_name": "Lawsonia inermis",
+    "family": "Lythraceae",
+    "common_names": {
+      "English": [
+        "Henna"
+      ],
+      "Hindi": [
+        "मेहंदी (Mehandi)"
+      ],
+      "Tamil": [
+        "மருதாணி (Maruthani)"
+      ],
+      "Telugu": [
+        "గోరింట ఆకు (Gorinta Aaku)"
+      ]
+    },
+    "description": "Henna, scientifically known as Lawsonia inermis, is a flowering plant native to North Africa, Southwest Asia, and South Asia. It is cultivated for its leaves, which contain a natural dye molecule called lawsone.",
+    "native_to": "North Africa, Southwest Asia, and South Asia",
+    "active_compounds": [
+      "Lawsone",
+      "Tannins",
+      "Gallic acid",
+      "Quercetin"
+    ],
+    "uses": {
+      "medicinal": [
+        "Used in traditional medicine for its cooling and soothing properties",
+        "May help alleviate headaches and fevers when applied topically",
+        "Used to treat various skin conditions such as burns, rashes, and fungal infections",
+        "May have antimicrobial and anti-inflammatory effects"
+      ],
+      "other": [
+        "Henna leaves are dried and powdered to make a paste, which is used for body art (mehndi), hair dyeing, and traditional medicinal applications. The paste is usually mixed with water or other liquids to achieve the desired consistency.",
+        "Use henna paste for body art or hair dyeing according to traditional practices. Consult with a healthcare professional or herbalist for specific medicinal uses or concerns."
+      ]
+    }
+  },
+  {
+    "id": "Hibiscus",
+    "name": "Hibiscus",
+    "scientific_name": "Hibiscus",
+    "family": "Malvaceae",
+    "common_names": {
+      "English": [
+        "Hibiscus"
+      ],
+      "Hindi": [
+        "गुड़हल (Gudhal)"
+      ],
+      "Tamil": [
+        "செம்பருத்தி (Semparuthi)"
+      ],
+      "Telugu": [
+        "మందారము (Mandaramu)"
+      ]
+    },
+    "description": "Hibiscus is a genus of flowering plants in the family Malvaceae, which includes hundreds of species. These plants are known for their large, colorful flowers and are commonly grown in gardens and landscapes.",
+    "native_to": "Tropical and subtropical regions around the world",
+    "active_compounds": [
+      "Flavonoids",
+      "Anthocyanins",
+      "Polyphenols",
+      "Vitamins"
+    ],
+    "uses": {
+      "medicinal": [
+        "Used in traditional medicine for various purposes, including treating high blood pressure, cholesterol, and inflammatory conditions",
+        "May have diuretic properties",
+        "May help lower blood sugar levels",
+        "Used externally for skin and hair health"
+      ],
+      "other": [
+        "Different parts of the hibiscus plant, including flowers and leaves, can be used to make herbal teas, extracts, and topical preparations. Hibiscus flowers are also used as ornamental decorations and in traditional ceremonies.",
+        "Use hibiscus preparations according to traditional practices or as recommended by a healthcare professional. Consult with an herbalist or healthcare provider for specific medicinal uses or concerns."
+      ]
+    }
+  },
+  {
+    "id": "Honge",
+    "name": "Honge",
+    "scientific_name": "Pongamia pinnata",
+    "family": "Fabaceae",
+    "common_names": {
+      "English": [
+        "Honge",
+        "Indian Beech",
+        "Pongamia"
+      ],
+      "Hindi": [
+        "करंज (Karanj)"
+      ],
+      "Tamil": [
+        "புங்காம் (Pungam)"
+      ],
+      "Telugu": [
+        "కనుగ (Kanuga)"
+      ]
+    },
+    "description": "Honge, scientifically known as Pongamia pinnata, is a species of tree native to the Indian Subcontinent. It is valued for its versatile uses, including as a source of biofuel, medicinal properties, and for its role in agroforestry.",
+    "native_to": "Indian Subcontinent",
+    "active_compounds": [
+      "Pongamol",
+      "Karanjin",
+      "Flavonoids",
+      "Triterpenoids"
+    ],
+    "uses": {
+      "medicinal": [
+        "Various parts of the Honge tree are used in traditional medicine for treating ailments such as skin diseases, rheumatism, and digestive issues.",
+        "The oil extracted from Honge seeds is used externally to treat skin disorders, wounds, and as a massage oil.",
+        "Honge oil has insecticidal properties and is used to repel insects and treat head lice."
+      ],
+      "other": [
+        "Honge trees prefer well-drained soil and full sunlight.",
+        "They are drought-tolerant but benefit from regular watering, especially during the establishment phase.",
+        "Pruning may be necessary to shape the tree and remove dead or damaged branches.",
+        "Protection from frost may be required in colder climates.",
+        "Various parts of the Honge tree, including seeds, leaves, and bark, are used in traditional medicine preparations. The oil extracted from Honge seeds is used topically for skin and hair care.",
+        "Honge-based medicinal preparations should be used under the guidance of a qualified healthcare practitioner. Consult with an Ayurvedic specialist or herbalist for specific uses and dosage."
+      ]
+    }
+  },
+  {
+    "id": "Insulin",
+    "name": "Insulin Plant",
+    "scientific_name": "Costus igneus",
+    "family": "Costaceae",
+    "common_names": {
+      "English": [
+        "Insulin Plant",
+        "Spiral Ginger"
+      ],
+      "Hindi": [
+        "इंसुलिन प्लांट (Insulin Plant)"
+      ],
+      "Tamil": [
+        "இன்சுலின் இலை (Insulin Ilai)"
+      ],
+      "Telugu": [
+        "ఇన్సులిన్ ఆకు (Insulin Aaku)"
+      ]
+    },
+    "description": "The Insulin Plant, scientifically known as Costus igneus, is a species of herbaceous plant native to India. It is characterized by its spirally arranged leaves and bright orange-red flowers. The plant is renowned for its purported medicinal properties, particularly its potential to lower blood sugar levels.",
+    "native_to": "India",
+    "active_compounds": [
+      "Pectin",
+      "Alkaloids",
+      "Flavonoids",
+      "Triterpenoids"
+    ],
+    "uses": {
+      "medicinal": [
+        "Blood sugar regulation: Some studies suggest that the Insulin Plant may help lower blood glucose levels",
+        "Antioxidant properties: Helps in reducing oxidative stress",
+        "Anti-inflammatory properties: Aids in reducing inflammation",
+        "Digestive health: Supports digestive function"
+      ],
+      "other": [
+        "Consult a healthcare professional before using the Insulin Plant as a treatment for diabetes or other medical conditions. It is important to monitor blood sugar levels regularly and adjust medication as necessary."
+      ]
+    }
+  },
+  {
+    "id": "Jackfruit",
+    "name": "Jackfruit",
+    "scientific_name": "Artocarpus heterophyllus",
+    "family": "Moraceae",
+    "common_names": {
+      "English": [
+        "Jackfruit"
+      ],
+      "Hindi": [
+        "कटहल (Kathal)"
+      ],
+      "Tamil": [
+        "பலா (Palaa)"
+      ],
+      "Telugu": [
+        "పనసపండు (Panasa Pandu)"
+      ]
+    },
+    "description": "Jackfruit, scientifically known as Artocarpus heterophyllus, is a species of tree in the Moraceae family, native to the rainforests of South and Southeast Asia. It is one of the largest fruits in the world, known for its distinctive spiky exterior and sweet, yellow flesh.",
+    "native_to": "South and Southeast Asia",
+    "active_compounds": [],
+    "uses": {
+      "medicinal": [
+        "In traditional medicine, various parts of the jackfruit tree are used to treat digestive disorders, skin problems, and respiratory ailments.",
+        "The seeds of the jackfruit are believed to have aphrodisiac properties and are used to promote sexual health.",
+        "Jackfruit is also valued for its nutritional content, rich in carbohydrates, dietary fiber, vitamins, and minerals."
+      ],
+      "other": [
+        "Ripe jackfruit is enjoyed fresh, often consumed as a dessert or snack.",
+        "Unripe jackfruit is used as a meat substitute in vegetarian and vegan dishes, such as curries, stews, and sandwiches.",
+        "Jackfruit seeds are edible and can be boiled, roasted, or ground into flour for various culinary applications.",
+        "Jackfruit trees thrive in tropical climates with abundant rainfall and well-drained soil.",
+        "They require full sunlight for optimal growth and fruiting.",
+        "Regular watering is necessary, especially during the flowering and fruiting stages.",
+        "Pruning may be necessary to maintain tree shape and promote fruit production.",
+        "Propagation is commonly done through seeds, grafting, or air layering.",
+        "Jackfruit can be prepared in various ways depending on its ripeness. Ripe jackfruit is typically eaten fresh, while unripe jackfruit is cooked as a vegetable or meat substitute. The seeds can be boiled, roasted, or ground into flour.",
+        "Enjoy jackfruit as part of a balanced diet to reap its nutritional benefits and potential medicinal properties. Consult with a healthcare professional or herbalist for specific medicinal uses or concerns."
+      ]
+    }
+  },
+  {
+    "id": "Jasmine",
+    "name": "Jasmine",
+    "scientific_name": "Jasminum",
+    "family": "Oleaceae",
+    "common_names": {
+      "English": [
+        "Jasmine"
+      ],
+      "Hindi": [
+        "चमेली (Chameli)"
+      ],
+      "Tamil": [
+        "மல்லிகை (Mallikai)"
+      ],
+      "Telugu": [
+        "మల్లెపూ (Mallepoo)"
+      ]
+    },
+    "description": "Jasmine is a genus of flowering plants in the Oleaceae family, native to tropical and subtropical regions of Eurasia, Australasia, and Oceania. It is known for its fragrant and delicate flowers, which are used in perfumery, aromatherapy, and religious ceremonies.",
+    "native_to": "Tropical and subtropical regions of Eurasia, Australasia, and Oceania",
+    "active_compounds": [
+      "Benzyl acetate",
+      "Benzyl benzoate",
+      "Benzyl alcohol",
+      "Indole",
+      "Linalool",
+      "Methyl anthranilate",
+      "α-Farnesene",
+      "α-Pinene",
+      "β-Caryophyllene",
+      "β-Elemene"
+    ],
+    "uses": {
+      "medicinal": [
+        "In traditional medicine, jasmine is used for its calming and soothing properties, promoting relaxation and reducing anxiety.",
+        "Jasmine essential oil is believed to have antidepressant effects and is used in aromatherapy to uplift mood and reduce stress.",
+        "The flowers of jasmine are also used in herbal teas and infusions for their aromatic and medicinal properties."
+      ],
+      "other": [
+        "Jasmine flowers are commonly used fresh or dried in various preparations. Jasmine essential oil is extracted through steam distillation of the flowers and is used in perfumes, cosmetics, and aromatherapy.",
+        "Enjoy the fragrance of jasmine flowers in perfumes, aromatherapy, or herbal teas to experience their calming and uplifting effects. Consult with a qualified aromatherapist or herbalist for specific medicinal uses or concerns."
+      ]
+    }
+  },
+  {
+    "id": "Kambajala",
+    "name": "Kambajala",
+    "scientific_name": "Milicia excelsa",
+    "family": "Moraceae",
+    "common_names": {
+      "English": [
+        "African Teak",
+        "Iroko",
+        "Kambala"
+      ],
+      "Tamil": [
+        "ஈரோக்கோ (Iroko)"
+      ],
+      "Telugu": [
+        "మెలిసియా ఎక్సెల్సా (Milicia Excelsa)"
+      ]
+    },
+    "description": "Milicia excelsa, commonly known as Kambala or African Teak, is a large hardwood tree native to tropical Africa. It is renowned for its durable and versatile timber, which is highly valued for various construction and woodworking purposes.",
+    "native_to": "Tropical Africa",
+    "active_compounds": [
+      "Tannins",
+      "Flavonoids",
+      "Alkaloids",
+      "Terpenoids"
+    ],
+    "uses": {
+      "medicinal": [
+        "Some traditional medicinal uses of various parts of the tree."
+      ],
+      "other": [
+        "Cultural: The tree holds cultural significance in some African societies, where it may be used in rituals or ceremonies.",
+        "Outdoor furniture",
+        "Boat building",
+        "Flooring",
+        "Cabinetry",
+        "Construction (beams, poles, etc.)"
+      ]
+    }
+  },
+  {
+    "id": "Kohlrabi",
+    "name": "Kohlrabi",
+    "scientific_name": "Brassica oleracea var. gongylodes",
+    "family": "Brassicaceae",
+    "common_names": {
+      "English": [
+        "Kohlrabi",
+        "German Turnip",
+        "Turnip Cabbage"
+      ],
+      "Hindi": [
+        "गांठ गोभी (Ganth Gobhi)"
+      ],
+      "Tamil": [
+        "நாவற்காய் (Navarkai)"
+      ],
+      "Telugu": [
+        "కొబ్బరి గంజలు (Kobari Ganjalu)"
+      ]
+    },
+    "description": "Kohlrabi, scientifically known as Brassica oleracea var. gongylodes, is a biennial vegetable belonging to the Brassicaceae family. It is native to Europe and is widely cultivated for its edible swollen stem.",
+    "native_to": "Europe",
+    "active_compounds": [
+      "Glucosinolates",
+      "Isothiocyanates",
+      "Indole-3-carbinol",
+      "Sulforaphane",
+      "Phenolic compounds"
+    ],
+    "uses": {
+      "medicinal": [
+        "While specific medicinal uses of Kohlrabi are not well-documented, it is a nutrient-rich vegetable that may offer health benefits due to its high content of vitamins, minerals, and phytonutrients."
+      ],
+      "other": [
+        "Raw: Kohlrabi can be eaten raw, sliced or grated, and added to salads or slaws.",
+        "Cooked: It can be steamed, boiled, roasted, or sautéed and used in various dishes such as soups, stir-fries, or vegetable medleys.",
+        "Pickled: Kohlrabi can be pickled for a tangy and crunchy snack."
+      ]
+    }
+  },
+  {
+    "id": "Lantana",
+    "name": "Lantana",
+    "scientific_name": "Lantana camara",
+    "family": "Verbenaceae",
+    "common_names": {
+      "English": [
+        "Lantana"
+      ],
+      "Hindi": [
+        "गान्धारज (Gandharaj)"
+      ],
+      "Tamil": [
+        "பூச்சி இலை (Poochi Ilai)"
+      ],
+      "Telugu": [
+        "బచ్చలి ఆకు (Bacchali Aaku)"
+      ]
+    },
+    "description": "Lantana, scientifically known as Lantana camara, is a species of flowering plant in the Verbenaceae family. It is native to tropical regions of the Americas and Africa but has become naturalized in many other parts of the world. Lantana is known for its colorful flower clusters and is often cultivated as an ornamental plant.",
+    "native_to": "Tropical regions of the Americas and Africa",
+    "active_compounds": [
+      "Lantadene A",
+      "Lantadene B",
+      "Lantadene C",
+      "Flavonoids",
+      "Triterpenes"
+    ],
+    "uses": {
+      "medicinal": [
+        "In traditional medicine, Lantana leaves and flowers are used to treat various ailments such as coughs, colds, fevers, and digestive disorders.",
+        "The plant contains bioactive compounds with potential antimicrobial, anti-inflammatory, and antioxidant properties."
+      ],
+      "other": [
+        "Lantana plants prefer well-drained soil and full sunlight.",
+        "They are drought-tolerant once established but benefit from regular watering during the growing season.",
+        "Pruning can help maintain plant shape and promote flowering.",
+        "Protection from frost may be necessary in cooler climates.",
+        "Lantana can spread aggressively and may become invasive in some areas.",
+        "Lantana leaves and flowers are typically used fresh or dried in herbal teas, infusions, or extracts. They can also be applied topically in poultices or ointments for various skin conditions.",
+        "Use Lantana preparations cautiously, as the plant contains toxic compounds that can cause gastrointestinal upset and skin irritation. Consult with a qualified herbalist or healthcare professional before use."
+      ]
+    }
+  },
+  {
+    "id": "Lemon",
+    "name": "Lemon",
+    "scientific_name": "Citrus limon",
+    "family": "Rutaceae",
+    "common_names": {
+      "English": [
+        "Lemon"
+      ],
+      "Hindi": [
+        "नींबू (Nimbu)"
+      ],
+      "Tamil": [
+        "எலுமிச்சை (Elumichai)"
+      ],
+      "Telugu": [
+        "నిమ్మకాయ (Nimmakaya)"
+      ]
+    },
+    "description": "Lemon, scientifically known as Citrus limon, is a species of small evergreen tree in the flowering plant family Rutaceae. It is native to South Asia, primarily northeastern India, but is now cultivated in tropical and subtropical regions worldwide for its edible fruit.",
+    "native_to": "South Asia, primarily northeastern India",
+    "active_compounds": [
+      "Vitamin C (ascorbic acid)",
+      "Citric acid",
+      "Flavonoids",
+      "Limonoids"
+    ],
+    "uses": {
+      "medicinal": [
+        "Lemon juice is rich in vitamin C and is used to prevent and treat scurvy, a disease caused by vitamin C deficiency.",
+        "It is also believed to have antioxidant properties and may help boost the immune system.",
+        "Lemon juice mixed with water is a common home remedy for digestive issues like indigestion and constipation."
+      ],
+      "other": [
+        "Lemons are primarily used for their juice, which is used in cooking, baking, beverages, and as a flavoring agent.",
+        "The zest (outer peel) can also be used to add flavor to dishes, and lemon slices are used as a garnish."
+      ]
+    }
+  },
+  {
+    "id": "Lemongrass",
+    "name": "Lemon Grass",
+    "scientific_name": "Cymbopogon citratus",
+    "family": "Poaceae",
+    "common_names": {
+      "English": [
+        "Lemon Grass"
+      ],
+      "Hindi": [
+        "लेमन ग्रास (Lemon Grass)"
+      ],
+      "Tamil": [
+        "எலுமிச்சை (Elumichai)"
+      ],
+      "Telugu": [
+        "నిమ్మకాయ (Nimmakaya)"
+      ]
+    },
+    "description": "Lemon Grass, scientifically known as Cymbopogon citratus, is a plant native to the tropical regions of Asia. It is valued for its aromatic leaves, which are commonly used in culinary and medicinal applications.",
+    "native_to": "Tropical regions of Asia",
+    "active_compounds": [
+      "Citronellol",
+      "Citronellal",
+      "Geraniol",
+      "Limonene"
+    ],
+    "uses": {
+      "medicinal": [
+        "Digestive aid",
+        "Anti-inflammatory properties",
+        "Relaxant for muscles and nerves",
+        "Potential antimicrobial effects",
+        "Rich in antioxidants"
+      ],
+      "other": [
+        "Lemon Grass leaves are used in various culinary dishes, teas, and essential oils. They impart a citrusy flavor and aroma.",
+        "Additionally, the leaves can be used for brewing herbal teas and infusions."
+      ]
+    }
+  },
+  {
+    "id": "Malabar_Nut",
+    "name": "Malabar Nut",
+    "scientific_name": "Justicia adhatoda",
+    "family": "Acanthaceae",
+    "common_names": {
+      "English": [
+        "Malabar Nut",
+        "Vasaka"
+      ],
+      "Hindi": [
+        "अड़ुसा (Arusa)"
+      ],
+      "Tamil": [
+        "ஆடாதொடை (Aadathodai)"
+      ],
+      "Telugu": [
+        "వాసాకం (Vasaakam)"
+      ]
+    },
+    "description": "Malabar Nut, scientifically known as Justicia adhatoda, is a plant native to Southeast Asia. It is recognized for its medicinal properties and is used in traditional medicine for various respiratory and health benefits.",
+    "native_to": "Southeast Asia",
+    "active_compounds": [
+      "Vasicine",
+      "Vasicinone",
+      "Quinazoline alkaloids",
+      "Essential oils"
+    ],
+    "uses": {
+      "medicinal": [
+        "Respiratory ailments (asthma, bronchitis)",
+        "Expectorant for cough relief",
+        "Anti-inflammatory properties",
+        "Fever reduction",
+        "Potential antimicrobial effects"
+      ],
+      "other": [
+        "Commonly used in traditional medicine",
+        "Leaves, roots, and flowers utilized for preparing decoctions, infusions, and herbal remedies",
+        "Address respiratory and other health issues"
+      ]
+    }
+  },
+  {
+    "id": "Malabar_Spinach",
+    "name": "Malabar Spinach",
+    "scientific_name": "Basella alba",
+    "family": "Basellaceae",
+    "common_names": {
+      "English": [
+        "Malabar Spinach",
+        "Ceylon Spinach"
+      ],
+      "Hindi": [
+        "पोई साग (Poi Saag)"
+      ],
+      "Tamil": [
+        "பசலைக் கீரை (Pasalai Keerai)"
+      ],
+      "Telugu": [
+        "బచాలకూర (Bachalakura)"
+      ]
+    },
+    "description": "Malabar Spinach, scientifically known as Basella alba, is a leafy green vegetable native to Asia and Africa. It is appreciated for its succulent leaves and is a popular ingredient in various culinary dishes.",
+    "native_to": "Asia and Africa",
+    "active_compounds": [
+      "Vitamins (such as Vitamin A",
+      "Vitamin C",
+      "Vitamin K)",
+      "Minerals (such as Iron",
+      "Calcium",
+      "Magnesium)",
+      "Antioxidants (such as Beta-carotene",
+      "Lutein",
+      "Zeaxanthin)",
+      "Dietary Fiber",
+      "Phytonutrients"
+    ],
+    "uses": {
+      "medicinal": [
+        "While specific medicinal uses of Malabar Spinach are not well-documented, it is a nutritious leafy green vegetable that is rich in vitamins, minerals, and antioxidants, which contribute to overall health and well-being."
+      ],
+      "other": [
+        "Edible leaves in salads and stir-fries",
+        "Cooked as a leafy green vegetable",
+        "Smoothies and green juices",
+        "Substitute for spinach in recipes",
+        "Rich in vitamins and minerals"
+      ]
+    }
+  },
+  {
+    "id": "Mango",
+    "name": "Mango",
+    "scientific_name": "Mangifera indica",
+    "family": "Anacardiaceae",
+    "common_names": {
+      "English": [
+        "Mango"
+      ],
+      "Hindi": [
+        "आम (Aam)"
+      ],
+      "Tamil": [
+        "மாம்பழம் (Maampazham)"
+      ],
+      "Telugu": [
+        "మామిడి (Maamidi)"
+      ]
+    },
+    "description": "Mango, scientifically known as Mangifera indica, is a tropical fruit native to South Asia. It is celebrated for its sweet and juicy flesh, vibrant aroma, and is widely cultivated for its delicious taste and nutritional value.",
+    "native_to": "South Asia",
+    "active_compounds": [
+      "Mango contains various bioactive compounds including phenolic compounds (such as mangiferin",
+      "gallic acid",
+      "and quercetin)",
+      "carotenoids (such as beta-carotene and lutein)",
+      "vitamin C",
+      "vitamin A",
+      "and dietary fiber."
+    ],
+    "uses": {
+      "medicinal": [
+        "While specific medicinal uses of Mango are not well-documented, it is a nutritious fruit that contains various bioactive compounds with potential health benefits. The consumption of mango as part of a balanced diet may contribute to overall health and well-being, including potential benefits for immune function, eye health, and digestion."
+      ],
+      "other": [
+        "Fresh consumption",
+        "Juices and smoothies",
+        "Chutneys and pickles",
+        "Desserts and ice creams",
+        "Mango salsa in savory dishes"
+      ]
+    }
+  },
+  {
+    "id": "Marigold",
+    "name": "Marigold",
+    "scientific_name": "Tagetes",
+    "family": "Asteraceae",
+    "common_names": {
+      "English": [
+        "Marigold"
+      ],
+      "Hindi": [
+        "गेंदा (Genda)"
+      ],
+      "Tamil": [
+        "செம்மந்தி (Semmanthi)"
+      ],
+      "Telugu": [
+        "జామిని (Jamin)"
+      ]
+    },
+    "description": "Marigold, scientifically known as Tagetes, is a flowering plant native to the Americas. Known for its vibrant and colorful flowers, it is widely cultivated for ornamental, medicinal, and pest-repelling purposes.",
+    "native_to": "Americas",
+    "active_compounds": [
+      "Flavonoids",
+      "Triterpenoids",
+      "Carotenoids",
+      "Essential oils"
+    ],
+    "uses": {
+      "medicinal": [
+        "Medicinal properties (anti-inflammatory, anti-bacterial)"
+      ],
+      "other": [
+        "Ornamental gardens and landscapes",
+        "Traditional and cultural celebrations",
+        "Natural pest repellent in gardens",
+        "Extracts in cosmetics and skincare"
+      ]
+    }
+  },
+  {
+    "id": "Mint",
+    "name": "Mint",
+    "scientific_name": "Mentha",
+    "family": "Lamiaceae",
+    "common_names": {
+      "English": [
+        "Mint"
+      ],
+      "Hindi": [
+        "पुदीना (Pudina)"
+      ],
+      "Tamil": [
+        "புதினா (Pudina)"
+      ],
+      "Telugu": [
+        "పుదీన (Pudina)"
+      ]
+    },
+    "description": "Mint, scientifically known as Mentha, is a versatile herb native to Europe, Asia, and Africa. It is known for its refreshing flavor, aromatic leaves, and is widely used in culinary, medicinal, and cosmetic applications.",
+    "native_to": "Europe, Asia, Africa",
+    "active_compounds": [
+      "Menthol",
+      "Menthone",
+      "Rosmarinic acid",
+      "Flavonoids"
+    ],
+    "uses": {
+      "medicinal": [
+        "Digestive aid",
+        "Relief from indigestion and nausea",
+        "Anti-inflammatory properties",
+        "Mint oil for aromatherapy",
+        "Potential headache relief"
+      ],
+      "other": [
+        "Flavoring in beverages (mint tea, mojitos)",
+        "Salads, sauces, and dressings",
+        "Desserts and sweets",
+        "Infusions and garnishes",
+        "Mint chutneys and spreads"
+      ]
+    }
+  },
+  {
+    "id": "Neem",
+    "name": "Neem",
+    "scientific_name": "Azadirachta indica",
+    "family": "Meliaceae",
+    "common_names": {
+      "English": [
+        "Neem"
+      ],
+      "Hindi": [
+        "नीम (Neem)"
+      ],
+      "Tamil": [
+        "வேப்பிலை (Vepillai)"
+      ],
+      "Telugu": [
+        "వేప (Vepa)"
+      ]
+    },
+    "description": "Neem, scientifically known as Azadirachta indica, is a tree native to the Indian subcontinent. It is highly valued for its medicinal properties, and various parts of the neem tree are used in traditional medicine, agriculture, and cosmetics.",
+    "native_to": "Indian subcontinent",
+    "active_compounds": [
+      "Azadirachtin",
+      "Nimbin",
+      "Quercetin",
+      "Azadirone"
+    ],
+    "uses": {
+      "medicinal": [
+        "Antibacterial and antiviral properties",
+        "Skin conditions (eczema, acne)",
+        "Dental care (neem twigs for cleaning teeth)",
+        "Fever reduction",
+        "Blood purification"
+      ],
+      "other": [
+        "Cosmetics (neem oil)",
+        "Agriculture (neem leaves, bark, seeds, and oil)",
+        "Oral care (neem twigs)"
+      ]
+    }
+  },
+  {
+    "id": "Nelavembu",
+    "name": "Nelavembu",
+    "scientific_name": "Andrographis paniculata",
+    "family": "Acanthaceae",
+    "common_names": {
+      "English": [
+        "Nelavembu"
+      ],
+      "Tamil": [
+        "நீலவேம்பு (Nelavembu)"
+      ],
+      "Telugu": [
+        "నేలవెంబు (Nelavembu)"
+      ]
+    },
+    "description": "Nelavembu, scientifically known as Andrographis paniculata, is a medicinal herb native to South Asian countries. It is recognized for its traditional use in Ayurveda and Siddha medicine for its potential health benefits.",
+    "native_to": "South Asian countries",
+    "active_compounds": [
+      "Andrographolide",
+      "Neoandrographolide",
+      "Kalmeghin",
+      "Flavonoids"
+    ],
+    "uses": {
+      "medicinal": [
+        "Fever and flu relief",
+        "Anti-inflammatory properties",
+        "Immune system support",
+        "Liver health",
+        "Respiratory conditions"
+      ],
+      "other": [
+        "Well-drained soil with moderate moisture",
+        "Partial shade to full sunlight",
+        "Regular watering, especially during dry periods",
+        "Pruning for bushy growth",
+        "Protection from pests like aphids"
+      ]
+    }
+  },
+  {
+    "id": "Nerale",
+    "name": "Nerale",
+    "scientific_name": "Emblica officinalis",
+    "family": "Phyllanthaceae",
+    "common_names": {
+      "English": [
+        "Indian Gooseberry",
+        "Amla"
+      ],
+      "Hindi": [
+        "आमला (Amla)"
+      ],
+      "Kannada": [
+        "ನೆಲ್ಲಿ (Nelli)"
+      ],
+      "Telugu": [
+        "ఉసిరికాయ (Usirikaya)"
+      ]
+    },
+    "description": "Nerale, commonly known as Indian Gooseberry or Amla, is a fruit native to India. It is renowned for its high vitamin C content and is used in various culinary, medicinal, and cosmetic applications.",
+    "native_to": "India",
+    "active_compounds": [
+      "Ascorbic acid (Vitamin C)",
+      "Gallic acid",
+      "Tannins",
+      "Flavonoids"
+    ],
+    "uses": {
+      "medicinal": [
+        "Rich in vitamin C and antioxidants",
+        "Immune system support",
+        "Digestive health",
+        "Hair and skin care",
+        "Anti-inflammatory properties"
+      ],
+      "other": [
+        "Fresh consumption",
+        "Chutneys and pickles",
+        "Juices and smoothies",
+        "Candies and preserves",
+        "Dried amla in culinary dishes"
+      ]
+    }
+  },
+  {
+    "id": "Nooni",
+    "name": "Nooni",
+    "scientific_name": "Terminalia bellirica",
+    "family": "Combretaceae",
+    "common_names": {
+      "English": [
+        "Beleric Myrobalan",
+        "Bahera"
+      ],
+      "Hindi": [
+        "बहेड़ा (Bahera)"
+      ],
+      "Tamil": [
+        "தான்றிகை (Tandrika)"
+      ],
+      "Telugu": [
+        "తానికాయ (Thanikaya)"
+      ]
+    },
+    "description": "Nooni, scientifically known as Terminalia bellirica, is a large deciduous tree native to the Indian subcontinent and Southeast Asia. It is known for its fruit, which is used in traditional medicine and Ayurvedic practices.",
+    "native_to": "Indian subcontinent, Southeast Asia",
+    "active_compounds": [
+      "Tannins",
+      "Gallic acid",
+      "Chebulagic acid",
+      "Corilagin"
+    ],
+    "uses": {
+      "medicinal": [
+        "Digestive health: Helps with constipation and indigestion",
+        "Respiratory health: Relieves cough and cold symptoms",
+        "Antioxidant properties: Protects against oxidative stress",
+        "Hair care: Strengthens hair and promotes hair growth",
+        "Skin care: Improves skin texture and complexion"
+      ],
+      "other": [
+        "Wood: The wood of Terminalia bellirica is used in furniture making, construction, and as fuelwood.",
+        "Tannin production: Nooni is a source of tannins used in leather tanning and dyeing processes.",
+        "Agricultural practices: Nooni leaves are used as organic mulch and in traditional agricultural practices to improve soil fertility and crop yield."
+      ]
+    }
+  },
+  {
+    "id": "Onion",
+    "name": "Onion",
+    "scientific_name": "Allium cepa",
+    "family": "Amaryllidaceae",
+    "common_names": {
+      "English": [
+        "Onion"
+      ],
+      "Hindi": [
+        "प्याज (Pyaz)"
+      ],
+      "Tamil": [
+        "வெங்காயம் (Vengayam)"
+      ],
+      "Telugu": [
+        "ఉల్లి (Ulli)"
+      ]
+    },
+    "description": "Onion, scientifically known as Allium cepa, is a bulbous vegetable native to Central Asia. Widely used in culinary applications, onions contribute a distinct flavor to various dishes and are known for their versatility.",
+    "native_to": "Central Asia",
+    "active_compounds": [
+      "Sulfur compounds (e.g.",
+      "allicin",
+      "alliin)",
+      "Quercetin",
+      "Flavonoids",
+      "Organosulfur compounds"
+    ],
+    "uses": {
+      "medicinal": [
+        "Anti-inflammatory properties: Onions contain compounds like quercetin and sulfur compounds that may have anti-inflammatory effects.",
+        "Antioxidant properties: The flavonoids present in onions have antioxidant properties, which may help in reducing oxidative stress.",
+        "Heart health: Some studies suggest that regular consumption of onions may contribute to heart health by lowering cholesterol levels and blood pressure.",
+        "Immune support: Onions contain compounds that may support immune function and help in fighting infections."
+      ],
+      "other": [
+        "Raw in salads",
+        "Cooked in various dishes",
+        "Sautéed or caramelized for flavor",
+        "Pickled onions",
+        "Base for soups, stews, and sauces"
+      ]
+    }
+  },
+  {
+    "id": "Padri",
+    "name": "Padri",
+    "scientific_name": "Rauvolfia serpentina",
+    "family": "Apocynaceae",
+    "common_names": {
+      "English": [
+        "Indian Snakeroot",
+        "Sarpagandha"
+      ],
+      "Hindi": [
+        "सर्पगंधा (Sarpagandha)",
+        "चंद्रोदय (Chandrodaya)"
+      ],
+      "Tamil": [
+        "சர்பகந்தா (Sarpagandha)"
+      ],
+      "Telugu": [
+        "సర్పగంధ (Sarpagandha)"
+      ]
+    },
+    "description": "Padri, scientifically known as Rauvolfia serpentina, is a species of flowering plant in the Apocynaceae family. It is native to the Indian subcontinent and is renowned for its medicinal properties, particularly in traditional Ayurvedic medicine.",
+    "native_to": "Indian subcontinent",
+    "active_compounds": [
+      "Reserpine",
+      "Rescinnamine",
+      "Serpentinine",
+      "Ajmalicine"
+    ],
+    "uses": {
+      "medicinal": [
+        "Hypotensive properties: Used to lower blood pressure",
+        "Sedative properties: Calms the nervous system and promotes sleep",
+        "Antipsychotic properties: Used in the treatment of mental disorders",
+        "Antiemetic properties: Relieves nausea and vomiting",
+        "Antidysenteric properties: Treats dysentery"
+      ],
+      "other": [
+        "Ornamental: Due to its attractive flowers and foliage, Rauvolfia serpentina is sometimes grown as an ornamental plant in gardens and landscapes.",
+        "Insecticidal: Extracts from Rauvolfia serpentina have shown insecticidal properties and are used in organic pest control methods."
+      ]
+    }
+  },
+  {
+    "id": "Palak(Spinach)",
+    "name": "Palak (Spinach)",
+    "scientific_name": "Spinacia oleracea",
+    "family": "Amaranthaceae",
+    "common_names": {
+      "English": [
+        "Spinach"
+      ],
+      "Hindi": [
+        "पालक (Palak)"
+      ],
+      "Tamil": [
+        "பாலாக் (Palak)"
+      ],
+      "Telugu": [
+        "పాలకూర (Palakura)"
+      ]
+    },
+    "description": "Palak, commonly known as Spinach, is a leafy green vegetable belonging to the Amaranthaceae family. It is appreciated for its tender leaves and is rich in various vitamins and minerals, making it a nutritious addition to meals.",
+    "native_to": "Central and Western Asia",
+    "active_compounds": [
+      "Iron",
+      "Vitamins A",
+      "C",
+      "and K",
+      "Folate",
+      "Calcium",
+      "Dietary fiber"
+    ],
+    "uses": {
+      "medicinal": [
+        "Iron",
+        "Vitamins A, C, and K",
+        "Folate",
+        "Calcium",
+        "Dietary fiber"
+      ],
+      "other": [
+        "Fresh in salads",
+        "Cooked in various dishes",
+        "Smoothies and juices",
+        "Saag (cooked puree) in Indian cuisine",
+        "Versatile ingredient in global cuisines"
+      ]
+    }
+  },
+  {
+    "id": "Papaya",
+    "name": "Papaya",
+    "scientific_name": "Carica papaya",
+    "family": "Caricaceae",
+    "common_names": {
+      "English": [
+        "Papaya"
+      ],
+      "Hindi": [
+        "पपीता (Papita)"
+      ],
+      "Tamil": [
+        "பப்பாளி (Papali)"
+      ],
+      "Telugu": [
+        "బొప్పాయి (Boppayi)"
+      ]
+    },
+    "description": "Papaya, scientifically known as Carica papaya, is a tropical fruit native to the Americas. It is appreciated for its sweet and vibrant orange flesh, and it's consumed worldwide for its delicious taste and various health benefits.",
+    "native_to": "Tropical regions of the Americas",
+    "active_compounds": [
+      "Enzyme papain",
+      "Antioxidants"
+    ],
+    "uses": {
+      "medicinal": [
+        "Vitamins A, C, and E",
+        "Folate",
+        "Dietary fiber"
+      ],
+      "other": [
+        "Fresh consumption",
+        "Juices and smoothies",
+        "Fruit salads",
+        "Salsas and chutneys",
+        "Desserts and sorbets"
+      ]
+    }
+  },
+  {
+    "id": "Parijatha",
+    "name": "Parijatha",
+    "scientific_name": "Nyctanthes arbor-tristis",
+    "family": "Oleaceae",
+    "common_names": {
+      "English": [
+        "Parijat",
+        "Night-flowering Jasmine"
+      ],
+      "Hindi": [
+        "पारिजात (Parijat)"
+      ],
+      "Tamil": [
+        "பாரிஜாதம் (Parijatham)"
+      ],
+      "Telugu": [
+        "పారిజాత (Parijatha)"
+      ]
+    },
+    "description": "Parijatha, scientifically known as Nyctanthes arbor-tristis, is a fragrant flowering plant native to South Asia. Known for its night-blooming white flowers, Parijat is culturally significant and has traditional uses in various systems of medicine.",
+    "native_to": "South Asia",
+    "active_compounds": [
+      "Nyctanthin",
+      "Hesperidin",
+      "Quercetin",
+      "Various volatile compounds"
+    ],
+    "uses": {
+      "medicinal": [
+        "Traditional medicinal uses"
+      ],
+      "other": [
+        "Ornamental plant in gardens",
+        "Cultural and religious significance",
+        "Aromatic properties in perfumery",
+        "Symbolic value in folklore and literature"
+      ]
+    }
+  },
+  {
+    "id": "Pea",
+    "name": "Pea",
+    "scientific_name": "Pisum sativum",
+    "family": "Fabaceae",
+    "common_names": {
+      "English": [
+        "Pea",
+        "Garden Pea"
+      ],
+      "Hindi": [
+        "मटर (Matar)"
+      ],
+      "Tamil": [
+        "பட்டாணி இலை (Pattani ilai)"
+      ],
+      "Telugu": [
+        "బటాణి ఆకు (Batani aku)"
+      ]
+    },
+    "description": "Pea leaf, scientifically known as Pisum sativum, refers to the leaves of the pea plant, which is a species of flowering plant in the Fabaceae family. Pea plants are widely cultivated for their edible seeds, commonly known as peas.",
+    "native_to": "Asia, Europe, and Africa",
+    "active_compounds": [
+      "Vitamin C",
+      "Vitamin K",
+      "Folate",
+      "Flavonoids",
+      "Phenolic compounds"
+    ],
+    "uses": {
+      "medicinal": [
+        "Rich source of vitamins and minerals, including vitamin C, vitamin K, and folate",
+        "Anti-inflammatory properties",
+        "Promoting digestive health",
+        "Supporting cardiovascular health",
+        "Antioxidant properties"
+      ],
+      "other": [
+        "Grows well in well-drained, fertile soil",
+        "Requires full sunlight",
+        "Regular watering, especially during flowering and pod development",
+        "Support structures may be needed for climbing varieties",
+        "Mulching to retain soil moisture and suppress weeds",
+        "Pea leaves are often consumed fresh in salads or cooked in various dishes. They can also be dried and used as a herbal tea.",
+        "Include pea leaves in your diet as part of a balanced meal to enjoy their nutritional benefits. Consult a healthcare professional for specific health concerns and dietary recommendations."
+      ]
+    }
+  },
+  {
+    "id": "Pepper",
+    "name": "Pepper Leaf",
+    "scientific_name": "Piper nigrum",
+    "family": "Piperaceae",
+    "common_names": {
+      "English": [
+        "Black Pepper",
+        "Pepper Vine"
+      ],
+      "Hindi": [
+        "काली मिर्च (Kali Mirch)"
+      ],
+      "Tamil": [
+        "மிளகு இலை (Milagu ilai)"
+      ],
+      "Telugu": [
+        "మిరియాల ఆకు (Miriyala aku)"
+      ]
+    },
+    "description": "Pepper leaf, scientifically known as Piper nigrum, refers to the leaves of the pepper plant, a perennial climbing vine native to South India. Black Pepper is widely used as a spice and seasoning in various cuisines around the world.",
+    "native_to": "South India",
+    "active_compounds": [
+      "Piperine",
+      "Alkaloids",
+      "Terpenes",
+      "Flavonoids"
+    ],
+    "uses": {
+      "medicinal": [
+        "Antioxidant properties",
+        "Anti-inflammatory properties",
+        "Digestive aid: Helps stimulate digestion",
+        "Respiratory health: Relieves cough and congestion",
+        "Pain relief: Used in traditional medicine for pain management"
+      ],
+      "other": [
+        "Pepper leaves are not commonly consumed as a food item but are occasionally used in traditional medicine preparations. They can be dried and powdered for use in herbal remedies.",
+        "Pepper leaves are not commonly used for culinary purposes. However, consult a qualified healthcare professional or herbalist for guidance on using pepper leaves in traditional medicine preparations."
+      ]
+    }
+  },
+  {
+    "id": "Pomoegranate",
+    "name": "Pomegranate",
+    "scientific_name": "Punica granatum",
+    "family": "Lythraceae",
+    "common_names": {
+      "English": [
+        "Pomegranate"
+      ],
+      "Hindi": [
+        "अनार (Anar)"
+      ],
+      "Tamil": [
+        "மாதுளம் (Maathulam)"
+      ],
+      "Telugu": [
+        "దాడి (Daadi)"
+      ]
+    },
+    "description": "Pomegranate, scientifically known as Punica granatum, is a fruit-bearing deciduous shrub or small tree native to Iran to northern India. It is cultivated for its nutrient-rich seeds, which are consumed fresh or processed into juice.",
+    "native_to": "Iran to northern India",
+    "active_compounds": [
+      "Ellagic acid",
+      "Punicalagins",
+      "Punicic acid",
+      "Anthocyanins"
+    ],
+    "uses": {
+      "medicinal": [
+        "Rich source of antioxidants",
+        "May help lower blood pressure",
+        "Potential anti-inflammatory properties",
+        "May improve heart health",
+        "May have anticancer effects"
+      ],
+      "other": [
+        "Pomegranate seeds can be consumed fresh, juiced, or used in various culinary dishes such as salads, desserts, and sauces. Pomegranate juice is also popular and can be consumed as is or mixed with other juices.",
+        "Enjoy pomegranate seeds and juice as part of a balanced diet to reap their nutritional benefits. Consult with a healthcare professional before using pomegranate supplements for medicinal purposes."
+      ]
+    }
+  },
+  {
+    "id": "Pumpkin",
+    "name": "Pumpkin",
+    "scientific_name": "Cucurbita pepo",
+    "family": "Cucurbitaceae",
+    "common_names": {
+      "English": [
+        "Pumpkin"
+      ],
+      "Hindi": [
+        "कद्दू (Kaddu)"
+      ],
+      "Tamil": [
+        "பூசணிக்காய் (Poosanikai)"
+      ],
+      "Telugu": [
+        "గుమ్మడికాయ (Gummadi kaaya)"
+      ]
+    },
+    "description": "Pumpkin, scientifically known as Cucurbita pepo, is a squash plant native to North America. It is cultivated for its edible fruit, often used in cooking and baking, as well as for decorative purposes during Halloween.",
+    "native_to": "North America",
+    "active_compounds": [
+      "Beta-carotene",
+      "Vitamin C",
+      "Potassium",
+      "Fiber"
+    ],
+    "uses": {
+      "medicinal": [
+        "Rich source of vitamins and minerals, particularly vitamin A and potassium",
+        "May support eye health",
+        "May aid in weight loss due to low calorie and high fiber content",
+        "May promote heart health",
+        "May boost immunity"
+      ],
+      "other": [
+        "Pumpkin can be cooked in various ways, including roasting, boiling, steaming, or baking. It is used in a wide range of dishes such as soups, pies, bread, and desserts. Pumpkin seeds are also edible and can be roasted and seasoned.",
+        "Incorporate pumpkin into your diet through cooking or baking to enjoy its culinary and potential health benefits. Consult with a healthcare professional for any specific medicinal uses or concerns."
+      ]
+    }
+  },
+  {
+    "id": "Raddish",
+    "name": "Radish",
+    "scientific_name": "Raphanus sativus",
+    "family": "Brassicaceae",
+    "common_names": {
+      "English": [
+        "Radish"
+      ],
+      "Hindi": [
+        "मूली (Mooli)"
+      ],
+      "Tamil": [
+        "முள்ளங்கி (Mullangi)"
+      ],
+      "Telugu": [
+        "ముల్లంగి (Mullangi)"
+      ]
+    },
+    "description": "Radish, scientifically known as Raphanus sativus, is a root vegetable that belongs to the Brassicaceae family. It is native to Southeast Asia and is cultivated worldwide for its crisp, peppery root.",
+    "native_to": "Southeast Asia",
+    "active_compounds": [
+      "Vitamin C",
+      "Anthocyanins",
+      "Isothiocyanates",
+      "Fiber"
+    ],
+    "uses": {
+      "medicinal": [
+        "Rich in vitamins C and B6",
+        "Contains antioxidants like anthocyanins and isothiocyanates",
+        "May aid digestion and promote gut health",
+        "May help regulate blood pressure",
+        "Potential anti-inflammatory properties"
+      ],
+      "other": [
+        "Radishes can be consumed raw, sliced, grated, or pickled.",
+        "Used in salads, sandwiches, and as a garnish.",
+        "Radish leaves are also edible and can be used in salads or cooked as greens.",
+        "Include radishes in salads, sandwiches, or as a crunchy snack to enjoy their taste and potential health benefits.",
+        "Consult with a healthcare professional for any specific medicinal uses or concerns."
+      ]
+    }
+  },
+  {
+    "id": "Rose",
+    "name": "Rose",
+    "scientific_name": "Rosa",
+    "family": "Rosaceae",
+    "common_names": {
+      "English": [
+        "Rose"
+      ],
+      "Hindi": [
+        "गुलाब (Gulab)"
+      ],
+      "Tamil": [
+        "ரோஜா (Roja)"
+      ],
+      "Telugu": [
+        "గులాబీ (Gulaabi)"
+      ]
+    },
+    "description": "Rose, belonging to the genus Rosa, is a woody perennial flowering plant native to various regions of the world. It is cultivated for its ornamental beauty, fragrance, and the essential oils extracted from its petals.",
+    "native_to": "Various regions of the world",
+    "active_compounds": [
+      "Essential oils (geraniol",
+      "citronellol",
+      "nerol)",
+      "Flavonoids",
+      "Vitamin C",
+      "Tannins"
+    ],
+    "uses": {
+      "medicinal": [
+        "Used in aromatherapy for relaxation and stress relief",
+        "Rose water is believed to have anti-inflammatory and antibacterial properties",
+        "May aid in digestion and relieve digestive disorders",
+        "Potential benefits for skin health and beauty",
+        "May promote emotional well-being"
+      ],
+      "other": [
+        "Cultivation for ornamental beauty",
+        "Extraction of essential oils, teas, jams, and syrups",
+        "Use in cosmetics and perfumes",
+        "Herbal remedies",
+        "Enjoyment of the beauty and fragrance in gardens or homes"
+      ]
+    }
+  },
+  {
+    "id": "Sampige",
+    "name": "Sampige",
+    "scientific_name": "Magnolia champaca",
+    "family": "Magnoliaceae",
+    "common_names": {
+      "English": [
+        "Champaca",
+        "Champa"
+      ],
+      "Hindi": [
+        "चम्पा (Champa)"
+      ],
+      "Tamil": [
+        "சம்பங்கி (Sampangi)"
+      ],
+      "Telugu": [
+        "సంపంగి (Sampangi)"
+      ]
+    },
+    "description": "Sampige, scientifically known as Magnolia champaca, is a species of flowering tree native to South and Southeast Asia. It is renowned for its fragrant flowers, which are used in various cultural and religious practices, as well as in perfumery.",
+    "native_to": "South and Southeast Asia",
+    "active_compounds": [
+      "Essential oils",
+      "Alkaloids",
+      "Flavonoids",
+      "Tannins"
+    ],
+    "uses": {
+      "medicinal": [
+        "Traditional remedy for fever and headache",
+        "Relief from anxiety and stress",
+        "Antioxidant properties",
+        "Supporting respiratory health",
+        "Promoting relaxation"
+      ],
+      "other": [
+        "The flowers of Sampige are used for various purposes. They can be harvested and used fresh in floral arrangements, dried for potpourri, or distilled to extract essential oils for perfumery and aromatherapy.",
+        "For medicinal purposes, Sampige flowers can be used in the form of teas, extracts, or essential oils. Consult a healthcare professional or herbalist for appropriate dosage and administration methods."
+      ]
+    }
+  },
+  {
+    "id": "Sapota",
+    "name": "Sapota",
+    "scientific_name": "Manilkara zapota",
+    "family": "Sapotaceae",
+    "common_names": {
+      "English": [
+        "Sapota",
+        "Sapodilla"
+      ],
+      "Hindi": [
+        "चिकू (Chiku)"
+      ],
+      "Tamil": [
+        "சீமைப்பல்லை (Seemaipaalai)"
+      ],
+      "Telugu": [
+        "సపోటా (Sapota)"
+      ]
+    },
+    "description": "Sapota, scientifically known as Manilkara zapota, is a tropical evergreen tree native to Mexico, Central America, and the Caribbean. It is cultivated for its sweet, pear-like fruits, which are commonly known as sapodilla.",
+    "native_to": "Mexico, Central America, and the Caribbean",
+    "active_compounds": [
+      "Vitamin C",
+      "Vitamin A",
+      "Calcium",
+      "Fiber"
+    ],
+    "uses": {
+      "medicinal": [
+        "Rich source of vitamins and minerals, including vitamin C, vitamin A, and calcium",
+        "May aid in digestion due to its high fiber content",
+        "May help regulate blood pressure",
+        "Potential benefits for skin health and wound healing",
+        "May have anti-inflammatory properties"
+      ],
+      "other": [
+        "Sapota fruits are usually eaten fresh when ripe. They can be sliced and eaten as is, or used in smoothies, milkshakes, desserts, and jams.",
+        "Enjoy ripe sapota fruits as a delicious and nutritious snack or incorporate them into various recipes. Consult with a healthcare professional for any specific medicinal uses or concerns."
+      ]
+    }
+  },
+  {
+    "id": "Seethaashoka",
+    "name": "Seethaashoka",
+    "scientific_name": "Saraca asoca",
+    "family": "Fabaceae",
+    "common_names": {
+      "English": [
+        "Seetha Ashoka",
+        "Sita Ashoka",
+        "Ashoka Tree"
+      ],
+      "Sanskrit": [
+        "अशोक (Ashoka)"
+      ],
+      "Hindi": [
+        "अशोक (Ashoka)"
+      ],
+      "Tamil": [
+        "அசோக மரம் (Ashoka Maram)"
+      ],
+      "Telugu": [
+        "అశోక వృక్షము (Ashoka Vrikshamu)"
+      ]
+    },
+    "description": "Seetha Ashoka, scientifically known as Saraca asoca, is a small evergreen tree native to the Indian Subcontinent. It is renowned for its beautiful and fragrant flowers and is culturally significant in India.",
+    "native_to": "Indian Subcontinent",
+    "active_compounds": [
+      "Flavonoids",
+      "Tannins",
+      "Glycosides"
+    ],
+    "uses": {
+      "medicinal": [
+        "Traditionally used in Ayurveda for various gynecological disorders",
+        "May help regulate menstrual cycles",
+        "May have anti-inflammatory properties",
+        "Used in traditional medicine for its potential to alleviate pain and inflammation"
+      ],
+      "other": [
+        "Ornamental Purposes: Seetha Ashoka trees are often cultivated for their aesthetic value in gardens, parks, and landscapes due to their attractive foliage and beautiful flowers.",
+        "Environmental Benefits: The tree's dense foliage provides shade and contributes to the improvement of microclimates in urban areas, making it suitable for landscaping and urban greening initiatives.",
+        "Cultural Significance: Seetha Ashoka holds cultural significance in various religious and spiritual practices in India. It is often associated with festivals, rituals, and ceremonies, symbolizing beauty, fertility, and prosperity.",
+        "Soil Stabilization: The deep roots of Seetha Ashoka trees help in preventing soil erosion and stabilizing slopes, making them useful for soil conservation efforts.",
+        "Woodcraft: While not as common as other timber trees, the wood of Seetha Ashoka may be utilized in small-scale woodcraft projects due to its fine grain and durability."
+      ]
+    }
+  },
+  {
+    "id": "Seethapala",
+    "name": "Seethapala",
+    "scientific_name": "Annona squamosa",
+    "family": "Annonaceae",
+    "common_names": {
+      "English": [
+        "Custard Apple",
+        "Sugar Apple"
+      ],
+      "Hindi": [
+        "सीताफल (Seethapala)"
+      ],
+      "Tamil": [
+        "சீதாப்பழம் (Seethapazham)"
+      ],
+      "Telugu": [
+        "సీతాఫలం (Seethaphalam)"
+      ]
+    },
+    "description": "Seethapala, scientifically known as Annona squamosa, is a species of flowering plant in the Annonaceae family, native to South America and widely cultivated for its edible fruits. It is a small deciduous or semi-evergreen tree with a spreading crown and oblong leaves.",
+    "native_to": "South America",
+    "active_compounds": [
+      "Acetogenins",
+      "Alkaloids",
+      "Flavonoids",
+      "Tannins"
+    ],
+    "uses": {
+      "medicinal": [
+        "Treatment of diarrhea and dysentery",
+        "Relief from nausea and vomiting",
+        "Aiding digestion",
+        "Promoting heart health",
+        "Boosting immunity",
+        "Antioxidant properties"
+      ],
+      "other": [
+        "Include Seethapala fruits in your diet to enjoy their nutritional and potential medicinal benefits. Consult a healthcare professional for specific health concerns and dosage recommendations."
+      ]
+    }
+  },
+  {
+    "id": "Spinach",
+    "name": "Spinach",
+    "scientific_name": "Spinacia oleracea",
+    "family": "Amaranthaceae",
+    "common_names": {
+      "English": [
+        "Spinach"
+      ],
+      "Hindi": [
+        "पालक (Palak)"
+      ],
+      "Tamil": [
+        "கீரை (Keerai)"
+      ],
+      "Telugu": [
+        "పాలకూర (Palakura)"
+      ]
+    },
+    "description": "Spinach, scientifically known as Spinacia oleracea, is a leafy green vegetable native to Central and Western Asia. It is cultivated for its nutritious leaves, which are rich in vitamins, minerals, and antioxidants.",
+    "native_to": "Central and Western Asia",
+    "active_compounds": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin K",
+      "Iron",
+      "Calcium"
+    ],
+    "uses": {
+      "medicinal": [
+        "Excellent source of vitamins A, C, and K",
+        "Rich in iron, which may help prevent anemia",
+        "May promote bone health due to its calcium and vitamin K content",
+        "May help regulate blood sugar levels",
+        "Antioxidants in spinach may have anti-inflammatory properties"
+      ],
+      "other": [
+        "Spinach can be consumed raw in salads or cooked in various dishes such as soups, stir-fries, and pasta.",
+        "It can also be blended into smoothies or used as a filling in sandwiches and wraps.",
+        "Incorporate spinach into your diet regularly to enjoy its nutritional benefits.",
+        "Consult with a healthcare professional for any specific medicinal uses or concerns."
+      ]
+    }
+  },
+  {
+    "id": "Tamarind",
+    "name": "Tamarind",
+    "scientific_name": "Tamarindus indica",
+    "family": "Fabaceae",
+    "common_names": {
+      "English": [
+        "Tamarind"
+      ],
+      "Hindi": [
+        "इमली (Imli)"
+      ],
+      "Tamil": [
+        "புளிந்தாங்காய் (Puli)"
+      ],
+      "Telugu": [
+        "చింత (Chintakaya)"
+      ]
+    },
+    "description": "Tamarind, scientifically known as Tamarindus indica, is a tropical tree native to Africa. It produces edible, pod-like fruits that contain a tangy pulp widely used in culinary applications.",
+    "native_to": "Africa",
+    "active_compounds": [
+      "Tartaric acid",
+      "Vitamin C",
+      "Potassium",
+      "Magnesium"
+    ],
+    "uses": {
+      "medicinal": [
+        "Rich source of vitamins and minerals, particularly vitamin C and potassium",
+        "May aid digestion and relieve digestive issues such as constipation",
+        "May help lower cholesterol levels",
+        "May have antioxidant and anti-inflammatory properties",
+        "Used in traditional medicine for various ailments"
+      ],
+      "other": [
+        "Tamarind pulp is used in cooking to add a tangy flavor to dishes such as curries, chutneys, sauces, and beverages.",
+        "It can also be made into candies, jams, and desserts.",
+        "Incorporate tamarind into your culinary creations to enjoy its unique flavor and potential health benefits. Consult with a healthcare professional for specific medicinal uses or concerns."
+      ]
+    }
+  },
+  {
+    "id": "Taro",
+    "name": "Taro",
+    "scientific_name": "Colocasia esculenta",
+    "family": "Araceae",
+    "common_names": {
+      "English": [
+        "Taro"
+      ],
+      "Hindi": [
+        "अरबी (Arbi)"
+      ],
+      "Tamil": [
+        "சேப்பங்கிழங்கு (Seppankizhangu)"
+      ],
+      "Telugu": [
+        "చామడు (Chamadu)"
+      ]
+    },
+    "description": "Taro, scientifically known as Colocasia esculenta, is a tropical plant native to Southeast Asia. It is cultivated for its starchy corms, which are used as a staple food in many cuisines around the world.",
+    "native_to": "Southeast Asia",
+    "active_compounds": [
+      "Dietary fiber",
+      "Vitamin E",
+      "Vitamin B6",
+      "Potassium"
+    ],
+    "uses": {
+      "medicinal": [
+        "May help improve digestion due to its high fiber content",
+        "Rich source of vitamins and minerals, including vitamin E, vitamin B6, and potassium",
+        "May aid in regulating blood sugar levels",
+        "May have anti-inflammatory properties",
+        "Used in traditional medicine for various ailments"
+      ],
+      "other": [
+        "Taro corms can be boiled, steamed, roasted, or fried. They are used in various dishes such as curries, stews, soups, and chips.",
+        "Taro leaves are also edible and used in some cuisines."
+      ]
+    }
+  },
+  {
+    "id": "Tecoma",
+    "name": "Tecoma",
+    "scientific_name": "Tecoma",
+    "family": "Bignoniaceae",
+    "common_names": {
+      "English": [
+        "Tecoma"
+      ],
+      "Hindi": [
+        "तेकोमा (Tecoma)"
+      ],
+      "Tamil": [
+        "தேகோமா (Tekoma)"
+      ],
+      "Telugu": [
+        "టెకోమా (Tekoma)"
+      ]
+    },
+    "description": "Tecoma is a genus of flowering plants in the family Bignoniaceae. It includes several species of shrubs and small trees known for their showy, trumpet-shaped flowers.",
+    "native_to": "Various regions around the world",
+    "active_compounds": [
+      "Iridoids",
+      "Flavonoids",
+      "Alkaloids",
+      "Triterpenoids",
+      "Phenolic compounds"
+    ],
+    "uses": {
+      "medicinal": [
+        "In traditional medicine, Tecoma species are used for treating various ailments such as fever, inflammation, and respiratory conditions.",
+        "Some species are believed to have antimicrobial properties."
+      ],
+      "other": [
+        "Tecoma species are primarily grown for ornamental purposes, admired for their beautiful flowers."
+      ]
+    }
+  },
+  {
+    "id": "Thumbe",
+    "name": "Thumbe",
+    "scientific_name": "Leucas aspera",
+    "family": "Lamiaceae",
+    "common_names": {
+      "English": [
+        "Thumbe",
+        "Cock's comb"
+      ],
+      "Hindi": [
+        "थुम्बा (Thumbe)"
+      ],
+      "Tamil": [
+        "தும்பாவல்லி (Thumbai Valli)"
+      ],
+      "Telugu": [
+        "తుమ్మట (Tummaata)"
+      ]
+    },
+    "description": "Thumbe, scientifically known as Leucas aspera, is a species of flowering plant in the Lamiaceae family. It is native to India, Southeast Asia, and Australia. Thumbe is a perennial herbaceous plant with erect stems, opposite leaves, and spikes of white flowers.",
+    "native_to": "India, Southeast Asia, and Australia",
+    "active_compounds": [
+      "Leucasperone",
+      "Phenylpropanoids",
+      "Triterpenoids",
+      "Flavonoids"
+    ],
+    "uses": {
+      "medicinal": [
+        "Treatment of fever, cold, and cough",
+        "Relief from headache and migraine",
+        "Anti-inflammatory properties",
+        "Treatment of skin diseases",
+        "Improving digestion",
+        "Supporting respiratory health"
+      ],
+      "other": [
+        "Various parts of the Thumbe plant, including leaves and roots, are used for medicinal purposes. They can be prepared as decoctions, infusions, or poultices for internal or external use.",
+        "Consult a healthcare professional or herbalist for appropriate dosage and administration methods based on the specific health condition being treated."
+      ]
+    }
+  },
+  {
+    "id": "Tomato",
+    "name": "Tomato",
+    "scientific_name": "Solanum lycopersicum",
+    "family": "Solanaceae",
+    "common_names": {
+      "English": [
+        "Tomato"
+      ],
+      "Hindi": [
+        "टमाटर (Tamatar)"
+      ],
+      "Tamil": [
+        "தக்காளி (Thakkali)"
+      ],
+      "Telugu": [
+        "టమాట (Tamata)"
+      ]
+    },
+    "description": "Tomato, scientifically known as Solanum lycopersicum, is a fruit-bearing plant native to South America. It is widely cultivated for its edible fruits, which are consumed in various culinary dishes worldwide.",
+    "native_to": "South America",
+    "active_compounds": [
+      "Lycopene",
+      "Vitamin C",
+      "Vitamin K",
+      "Potassium"
+    ],
+    "uses": {
+      "medicinal": [
+        "Rich source of vitamins and minerals, including vitamin C, vitamin K, and potassium",
+        "May help reduce the risk of certain chronic diseases due to its antioxidant content",
+        "May have anti-inflammatory properties",
+        "May promote heart health and regulate blood pressure",
+        "Used in traditional medicine for various purposes"
+      ],
+      "other": [
+        "Tomatoes can be eaten raw in salads, sandwiches, and salsas, or cooked in sauces, soups, and stews.",
+        "They can also be roasted, grilled, or sun-dried to intensify their flavor.",
+        "Incorporate tomatoes into your diet regularly to enjoy their taste and potential health benefits. Consult with a healthcare professional for specific medicinal uses or concerns."
+      ]
+    }
+  },
+  {
+    "id": "Tulsi",
+    "name": "Tulsi",
+    "scientific_name": "Ocimum tenuiflorum",
+    "family": "Lamiaceae",
+    "common_names": {
+      "English": [
+        "Holy Basil",
+        "Tulsi"
+      ],
+      "Hindi": [
+        "तुलसी (Tulsi)"
+      ],
+      "Tamil": [
+        "துளசி (Tulasi)"
+      ],
+      "Telugu": [
+        "తులసి (Tulasi)"
+      ]
+    },
+    "description": "Tulsi, scientifically known as Ocimum tenuiflorum, is an aromatic plant in the Lamiaceae family native to the Indian subcontinent. It is widely cultivated for its religious and medicinal significance.",
+    "native_to": "Indian subcontinent",
+    "active_compounds": [
+      "Eugenol",
+      "Ursolic acid",
+      "Rosmarinic acid",
+      "Oleanolic acid"
+    ],
+    "uses": {
+      "medicinal": [
+        "Adaptogenic properties (helps the body adapt to stress)",
+        "Antioxidant properties",
+        "Anti-inflammatory properties",
+        "Immune-modulatory effects",
+        "Relief from respiratory conditions such as cough and asthma",
+        "Supporting heart health"
+      ],
+      "other": [
+        "Various parts of the Tulsi plant, including leaves, seeds, and roots, are used for medicinal purposes. They can be consumed fresh, dried, or prepared as teas, extracts, or powders.",
+        "Tulsi can be consumed in various forms such as teas, extracts, or added to culinary dishes. Consult a healthcare professional or herbalist for appropriate dosage and administration methods based on the specific health condition being treated."
+      ]
+    }
+  },
+  {
+    "id": "Turmeric",
+    "name": "Turmeric",
+    "scientific_name": "Curcuma longa",
+    "family": "Zingiberaceae",
+    "common_names": {
+      "English": [
+        "Turmeric"
+      ],
+      "Hindi": [
+        "हल्दी (Haldi)"
+      ],
+      "Tamil": [
+        "மஞ்சள் (Manjal)"
+      ],
+      "Telugu": [
+        "పసుపు (Pasupu)"
+      ]
+    },
+    "description": "Turmeric, scientifically known as Curcuma longa, is a flowering plant in the ginger family, Zingiberaceae. It is native to the Indian subcontinent and Southeast Asia. Turmeric is well-known for its bright yellow color and culinary and medicinal properties.",
+    "native_to": "Indian subcontinent and Southeast Asia",
+    "active_compounds": [
+      "Curcumin",
+      "Demethoxycurcumin",
+      "Bisdemethoxycurcumin",
+      "Turmerones"
+    ],
+    "uses": {
+      "medicinal": [
+        "Anti-inflammatory properties",
+        "Antioxidant properties",
+        "Digestive aid",
+        "Liver detoxification",
+        "Supporting cardiovascular health",
+        "Antimicrobial properties"
+      ],
+      "other": [
+        "Used as a spice in cooking",
+        "Used as a coloring agent",
+        "Used in traditional medicine"
+      ]
+    }
+  },
+  {
+    "id": "ashoka",
+    "name": "Ashoka",
+    "scientific_name": "Saraca asoca",
+    "family": "Fabaceae",
+    "common_names": {
+      "English": [
+        "Ashoka tree"
+      ],
+      "Hindi": [
+        "अशोक (Ashoka)"
+      ],
+      "Tamil": [
+        "அசோகம் (Ashokam)"
+      ],
+      "Telugu": [
+        "అశోక (Ashoka)"
+      ]
+    },
+    "description": "Ashoka, also known as the Ashoka tree, is an evergreen tree native to the Indian subcontinent. It is revered for its beautiful and fragrant flowers, which are often used in religious ceremonies.",
+    "native_to": "India",
+    "active_compounds": [
+      "Tannins",
+      "Flavonoids",
+      "Glycosides",
+      "Saponins"
+    ],
+    "uses": {
+      "medicinal": [
+        "Treating gynecological disorders such as menstrual disorders and menorrhagia",
+        "Regulating menstrual cycle",
+        "Improving female reproductive health",
+        "Reducing symptoms of menopause",
+        "Anti-inflammatory and analgesic properties",
+        "Managing diabetes"
+      ],
+      "other": [
+        "Promoting skin health and treating skin disorders",
+        "Supporting gastrointestinal health and aiding in digestion",
+        "Alleviating symptoms of anxiety and stress",
+        "Supporting liver function and detoxification processes",
+        "Enhancing immune function",
+        "Acting as a natural aphrodisiac"
+      ]
+    }
+  },
+  {
+    "id": "camphor",
+    "name": "Camphor",
+    "scientific_name": "Cinnamomum camphora",
+    "family": "Lauraceae",
+    "common_names": {
+      "English": [
+        "Camphor"
+      ],
+      "Hindi": [
+        "कपूर (Kapoor)"
+      ],
+      "Tamil": [
+        "கற்பூரம் (Karpuram)"
+      ],
+      "Telugu": [
+        "కర్పూరము (Karpooram)"
+      ]
+    },
+    "description": "Camphor, scientifically known as Cinnamomum camphora, is a large evergreen tree native to East Asia, including China, Taiwan, Japan, and Korea. It is cultivated for its aromatic wood and oil, which are used in various industrial, medicinal, and religious purposes.",
+    "native_to": "East Asia, including China, Taiwan, Japan, and Korea",
+    "active_compounds": [
+      "Camphor",
+      "Safrole",
+      "Eugenol",
+      "Linalool"
+    ],
+    "uses": {
+      "medicinal": [
+        "Relieving pain and inflammation",
+        "Treating cough and respiratory conditions",
+        "Improving circulation",
+        "Relieving itching and irritation",
+        "Antimicrobial and antifungal properties",
+        "Promoting relaxation and sleep"
+      ],
+      "other": [
+        "Industrial purposes",
+        "Religious purposes"
+      ]
+    }
+  },
+  {
+    "id": "kamakasturi",
+    "name": "Kamakasturi",
+    "scientific_name": "Nardostachys jatamansi",
+    "family": "Valerianaceae",
+    "common_names": {
+      "English": [
+        "Spikenard",
+        "Jatamansi"
+      ],
+      "Hindi": [
+        "जटामांसी (Jatamansi)",
+        "संस्कृत (Sanskrit)"
+      ],
+      "Tamil": [
+        "கமகஸ்துரி (Kamakasturi)"
+      ]
+    },
+    "description": "Kamakasturi, scientifically known as Nardostachys jatamansi, is a flowering plant in the Valerianaceae family native to the Himalayan region of India, Nepal, and China. It is valued for its aromatic rhizomes and roots, which are used in traditional medicine and perfumery.",
+    "native_to": "Himalayan region of India, Nepal, and China",
+    "active_compounds": [
+      "Nardostachone",
+      "Jatamansone",
+      "Valerianol",
+      "Sesquiterpenes"
+    ],
+    "uses": {
+      "medicinal": [
+        "Calming and sedative properties: Used to promote relaxation and reduce anxiety",
+        "Anti-inflammatory properties: Helps in reducing inflammation",
+        "Antioxidant properties: Protects against oxidative stress",
+        "Supports skin health: Used in skincare for its rejuvenating properties",
+        "Improves cognitive function: Used to enhance memory and cognitive abilities"
+      ],
+      "other": [
+        "The roots and rhizomes of Kamakasturi are harvested, dried, and ground into powder. They can be used to make teas, decoctions, tinctures, or infused oils.",
+        "Kamakasturi-based preparations are typically consumed orally or applied topically, depending on the desired effect. Consult a qualified healthcare practitioner or herbalist for appropriate dosage and administration methods."
+      ]
+    }
+  },
+  {
+    "id": "kepala",
+    "name": "Kepala",
+    "scientific_name": "Ixora coccinea",
+    "family": "Rubiaceae",
+    "common_names": {
+      "English": [
+        "Ixora",
+        "Flame of the Woods",
+        "Jungle Geranium"
+      ],
+      "Hindi": [
+        "रुज़ा (Ruja)",
+        "संस्कृत (Sanskrit)"
+      ],
+      "Tamil": [
+        "ஈக்சோரா கொக்கினியா (Ixora kokinoiya)"
+      ],
+      "Telugu": [
+        "ఈక్సోరా కోకినియా (Ixora kokiniya)"
+      ]
+    },
+    "description": "Ixora coccinea, commonly known as Ixora, Flame of the Woods, or Jungle Geranium, is a species of flowering plant in the Rubiaceae family. It is native to South Asia and is widely cultivated for its vibrant clusters of flowers.",
+    "native_to": "South Asia",
+    "active_compounds": [
+      "Alkaloids",
+      "Flavonoids",
+      "Tannins",
+      "Terpenoids"
+    ],
+    "uses": {
+      "medicinal": [
+        "In traditional medicine, various parts of Ixora are used to treat ailments such as diarrhea, dysentery, and skin diseases. However, scientific evidence supporting its medicinal properties is limited."
+      ],
+      "other": [
+        "Ixora is popularly grown as an ornamental plant in gardens, parks, and landscapes for its colorful and attractive flowers."
+      ]
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[project]
+name = "classifyai-api"
+version = "1.0.0"
+description = "FastAPI service that identifies medicinal plants from leaf photos"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+markers = ["model: loads the real TensorFlow model (skipped if unavailable)"]
+
+[tool.ruff]
+line-length = 88
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP", "SIM"]
+ignore = ["B008"]  # FastAPI uses Depends()/Query() in argument defaults by design

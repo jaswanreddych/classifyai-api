@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.env
+
+# Large model weights are published as a release asset (scripts/download_model.py)
+models/*.h5
+models/*.part
+
+# Local test images
+samples/
