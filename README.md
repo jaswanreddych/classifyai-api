@@ -29,6 +29,16 @@ curl -F "file=@leaf.jpg;type=image/jpeg" "http://localhost:8000/api/v1/predictio
 
 Interactive docs are served at `/docs` (Swagger UI) once the server is running.
 
+![Swagger UI listing the ClassifyAI endpoints](docs/images/swagger-ui.png)
+
+<details><summary>Full example response and test run</summary>
+
+![A real prediction response](docs/images/prediction.png)
+
+![36 passing tests](docs/images/tests.png)
+
+</details>
+
 ## API
 
 | Method | Path | What it does |
